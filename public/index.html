@@ -1,51 +1,52 @@
 <!doctype html>
-<html lang="en">
+<html lang="pl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Section A Underwriting MVP</title>
+    <title>Sekcja A – Underwriting</title>
     <style>
       body { font-family: Arial, sans-serif; margin: 24px; }
-      form { display: grid; gap: 12px; max-width: 760px; }
+      form { display: grid; gap: 12px; max-width: 980px; }
       .card { border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin-top: 14px; }
       .muted { color: #555; font-size: 0.95rem; }
       .error { color: #a00000; font-weight: 700; }
       .ok { color: #006600; font-weight: 700; }
       .warning { color: #8c6200; font-weight: 700; }
-      .question { padding: 6px 0; border-bottom: 1px dashed #ddd; }
+      .question { padding: 10px 0; border-bottom: 1px dashed #ddd; }
       .question:last-child { border-bottom: none; }
       button { width: fit-content; padding: 8px 14px; }
       pre { white-space: pre-wrap; background: #f8f8f8; padding: 10px; border-radius: 6px; }
+      textarea, input, select { width: 100%; max-width: 760px; }
     </style>
   </head>
   <body>
     <main>
-      <h1>Section A End-to-End Underwriting MVP</h1>
-      <p class="muted">Only Section A (Produkcja) is available in this MVP.</p>
+      <h1>Sekcja A – kwestionariusz underwritingu</h1>
+      <p class="muted">Aktualnie obsługiwana jest wyłącznie Sekcja A (Produkcja).</p>
 
       <form id="underwritingForm">
-        <label for="category">Category</label>
+        <label for="category">Kategoria</label>
         <input id="category" name="category" type="text" value="Produkcja" readonly />
 
-        <label for="activity">Activity</label>
+        <label for="activity">Rodzaj działalności</label>
         <select id="activity" name="activity" required>
-          <option value="" selected disabled>Loading activities...</option>
+          <option value="" selected disabled>Ładowanie aktywności...</option>
         </select>
 
-        <label for="turnover">Turnover / exposure (EUR)</label>
-        <input id="turnover" name="turnover" type="number" min="1" step="1" placeholder="e.g. 1500000" required />
+        <label for="turnover">Obrót / ekspozycja (EUR)</label>
+        <input id="turnover" name="turnover" type="number" min="1" step="1" placeholder="np. 1500000" required />
 
         <section id="underwritingQuestions" class="card">
-          <h2>Underwriting questions</h2>
-          <p class="muted">Loading questions...</p>
+          <h2>Kwestionariusz underwritingu</h2>
+          <p class="muted">Ładowanie pytań...</p>
         </section>
 
-        <button type="submit">Calculate premium</button>
+        <button type="submit">Kalkuluj składkę</button>
       </form>
 
       <section id="result" class="card" aria-live="polite">
-        <h2>Premium breakdown</h2>
-        <p class="muted">No calculation yet.</p>
+        <h2>Wynik kalkulacji</h2>
+        <p class="muted">Brak kalkulacji.</p>
       </section>
     </main>
 
