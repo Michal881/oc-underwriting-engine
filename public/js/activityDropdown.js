@@ -73,9 +73,13 @@
       .filter(Boolean);
   }
 
-  function renderActivityOptions(activities) {
+  function renderActivityOptions(activities, activityType = "") {
+    const noActivitiesPlaceholder = activityType
+      ? "No activities available for this type"
+      : "No activities available";
+
     resetActivityDropdown(
-      activities.length ? "Select an activity" : "No activities available"
+      activities.length ? "Select an activity" : noActivitiesPlaceholder
     );
 
     if (!activities.length) return;
@@ -112,7 +116,7 @@
     const list = normalizeActivities(payload);
 
     state.activities = list;
-    renderActivityOptions(list);
+    renderActivityOptions(list, activityType);
   }
 
   activitySelect.addEventListener("change", (event) => {

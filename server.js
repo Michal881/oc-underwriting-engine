@@ -1,6 +1,6 @@
 const express = require("express");
 const path = require("path");
-const { listTariffSections } = require("./tariff_engine");
+const { loadTariff } = require("./tariff_engine");
 
 const app = express();
 const PORT = 3000;
@@ -8,13 +8,30 @@ const PORT = 3000;
 app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/activities", (req, res) => {
-  const activityType = String(req.query.type || "").trim().toLowerCase();
+  const activityType = String(req.query.type || "").trim().toUpperCase();
+  const tariff = loadTariff();
+  const allActivities = [];
 
-  const allActivities = listTariffSections().map((section) => ({
-    value: String(section.code),
-    label: section.title_pl || section.title_de || String(section.code),
-    type: String(section.parent_section_id || "").toLowerCase(),
-  }));
+  for (const section of tariff.tariff_sections || []) {
+    const sectionId = String(section.section_id || "").trim().toUpperCase();
+    const rows = Array.isArray(section.industries_activities_risk_classes)
+      ? section.industries_activities_risk_classes
+      : [];
+
+    for (const row of rows) {
+      const label = String(row.activity_pl || row.activity_de || "").trim();
+      if (!label) continue;
+
+      const idCandidate =
+        row.risiko_nr || row.wagnis_nr || row.wz_code || `${sectionId}:${label}`;
+
+      allActivities.push({
+        value: String(idCandidate),
+        label,
+        type: sectionId,
+      });
+    }
+  }
 
   const filteredActivities = activityType
     ? allActivities.filter((activity) => activity.type === activityType)
