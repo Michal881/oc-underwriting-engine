@@ -1,0 +1,9 @@
+{
+  "source": "data/extracted/all_tariff_text.txt",
+  "language": "de",
+  "extraction_status": "raw_unverified",
+  "tariff_sections": [],
+  "global_questions": [],
+  "global_rules": [],
+  "uncertain_items": []
+}

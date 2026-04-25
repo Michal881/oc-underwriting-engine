@@ -1,0 +1,1986 @@
+
+
+--- PAGE 1 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+99
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1. Wärmeerzeugung, Energie, Bergbau
+1.1 Anlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas
+durch den Einsatz von Brennstoffen in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraft-
+werk, Heizwerk Gasturbinenanlage, Verbrennungsmotoranlage, sonstige Feuerungsanlage), ein-
+schließlich zugehöriger Dampfkessel,
+a) bei festen oder flüssigen Brennstoffen, mit einer Feuerungswärmeleistung von
+--- --- ---  weniger als 50 Megawatt siehe Ziffern 1.2 bzw. 1.3
+1 1 1  50 Megawatt und mehr bis weniger als 100 Megawatt 2.2 0501 3.748,50 €
+1 1 1  100 Megawatt und mehr bis weniger als 250 Megawatt 2.2 0501 5.901,00 €
+1 1 1  250 Megawatt und mehr 2.2 0501 7.854,00 €
+b) bei gasförmigen Brennstoffen, mit einer Feuerungswärmeleistung von
+--- --- ---  weniger als 50 Megawatt siehe Ziffern 1.2 bzw. 1.3
+1 --- ---  50 Megawatt und mehr bis weniger als 65 Megawatt 2.3 0502 1.062,60 €
+1 --- ---  65 Megawatt und mehr bis weniger als 80 Megawatt 2.3 0502 1.207,50 €
+1 --- ---  80 Megawatt und mehr bis weniger als 100 Megawatt 2.3 0502 1.517,30 €
+1 1 1  100 Megawatt und mehr bis weniger als 250 Megawatt 2.2 0501 3.748,50 €
+1 1 1  250 Megawatt und mehr bis weniger als 500 Megawatt 2.2 0501 5.901,00 €
+1 1 1  500 Megawatt und mehr 2.2 0501 7.854,00 €
+1.2 Anlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas
+durch den Einsatz von
+a) Kohle, Koks einschließlich Petrolkoks, Kohlebriketts, Torfbriketts, Brenntorf, naturbelassenem
+Holz, emulgiertem Naturbitumen, Heizölen, ausgenommen Heizöl EL, mit einer Feuerungs-
+wärmeleistung von
+--- --- ---  weniger als 1 Megawatt 2.7 ---
+2 a --- ---  1 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0502 633,20 €
+2 a --- ---  10 Megawatt und mehr bis weniger als 30 Megawatt 2.3 0502 849,50 €
+2 a --- ---  30 Megawatt und mehr bis weniger als 50 Megawatt 2.3 0502 1.062,60 €
+--- --- ---  50 Megawatt und mehr siehe Ziffer 1.1 a
+b) gasförmigen Brennstoffen (insbesondere Koksofengas, Grubengas, Stahlgas, Raffineriegas,
+Synthesegas, Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas *) ), ausgenommen
+naturbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung oder Wasserstoff,
+mit einer Feuerungswärmeleistung von
+--- --- ---  weniger als 10 Megawatt 2.7 ---
+2 b --- ---  10 Megawatt und mehr bis weniger als 20 Megawatt 2.3 0502 633,20 €
+2 b --- ---  20 Megawatt und mehr bis weniger als 40 Megawatt 2.3 0502 849,50 €
+2 b --- ---  40 Megawatt und mehr bis weniger als 50 Megawatt 2.3 0502 904,10 €
+---  50 Megawatt und mehr siehe Ziffer 1.1 b
+*) Biogasanlagen Anfrage
+
+
+--- PAGE 2 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+100
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+c) Heizöl EL, Methanol, Ethanol, naturbelassenen Pflanzenölen oder Pflanzenölmethylestern,
+naturbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung oder Wasserstoff,
+mit einer Feuerungswärmeleistung von
+--- --- ---  weniger als 20 Megawatt
+2 b --- ---  20 Megawatt und mehr bis weniger als 30 Megawatt 2.3 0502 633,20 €
+2 b --- ---  30 Megawatt und mehr bis weniger als 40 Megawatt 2.3 0502 849,50 €
+2 b --- ---  40 Megawatt und mehr bis weniger als 50 Megawatt 2.3 0502 904,10 €
+---  50 Megawatt und mehr siehe Ziffer 1.1 a bzw. b
+in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, Gasturbinenanlage,
+Verbrennungsmotoranlage, sonstige Feuerungsanlage), einschließlich zugehöriger Dampfkessel,
+ausgenommen Verbrennungsmotoranlagen für Bohranlagen und Notstromaggregate
+1.3 Anlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas
+durch den Einsatz anderer als in Nummer 1.2 genannter fester oder flüssiger Brennstoffe in ei-
+ner Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, Gasturbinenanlage,
+Verbrennungsmotoranlage, sonstige Feuerungsanlage), einschließlich zugehöriger Dampfkessel,
+mit einer Feuerungswärmeleistung von
+---  weniger als 100 KW 2.7 ---
+2 --- ---  100 KW und mehr bis weniger als 200 KW 2.3 0502 633,20 €
+2 --- ---  200 KW und mehr bis weniger als 500 KW 2.3 0502 849,50 €
+2 --- ---  500 KW und mehr bis weniger als 1 MW 2.3 0502 1.062,60 €
+1 1 3  1 MW und mehr bis weniger als 5 MW 2.2 0501 3.748,50 €
+1 1 3  5 MW und mehr bis weniger als 10 MW 2.2 0501 5.901,00 €
+1 1 3  10 MW und mehr 2.2 0501 7.854,00 €
+1.4 Verbrennungsmotoranlagen zum Antrieb von Arbeitsmaschinen für den Einsatz von Heizöl EL,
+Dieselkraftstoff, Methanol, Ethanol, naturbelassenen Pflanzenölen, Pflanzenölmethylestern oder
+gasförmigen Brennstoffen (insbesondere Koksofengas, Grubengas, Stahlgas, Raffineriegas, Syn-
+thesegas, Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas, naturbelassenem Erdgas,
+Flüssiggas, Gasen der öffentlichen Gasversorgung, Wasserstoff) - ausgenommen Deponiegas und
+Altöl, siehe Ziff. 8.1 - mit einer Feuerungswärmeleistung von
+---  weniger als 1 Megawatt
+2 a --- ---  1 Megawatt und mehr bis weniger als 3 Megawatt 2.3 0502 633,20 €
+2 a --- ---  3 Megawatt und mehr bis weniger als 6 Megawatt 2.3 0502 849,50 €
+2 a --- ---  6 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0502 1.062,60 €
+2 a 1 5  10 Megawatt und mehr bis weniger als 50 Megawatt 2.2 0501 5.901,00 €
+1 1 5  50 Megawatt und mehr 2.2 0501 5.901,00 €
+Verbrennungsmotoranlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder
+erhitztem Abgas für den Einsatz von
+
+
+--- PAGE 3 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+101
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+a) gasförmigen Brennstoffen (insbesondere Koksofengas, Grubengas, Stahlgas, Raffineriegas,
+Synthesegas, Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas), ausgenommen na-
+turbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung oder Wasserstoff, mit
+einer Feuerungswärmeleistung von
+--- --- ---  weniger als 1 Megawatt
+2 b --- ---  1 Megawatt und mehr bis weniger als 3 Megawatt 2.3 0502 633,20 €
+2 b --- ---  3 Megawatt und mehr bis weniger als 6 Megawatt 2.3 0502 849,50 €
+2 b --- ---  6 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0502 1.062,60 €
+--- 1 5  10 Megawatt und mehr 2.2 0501 5.901,00 €
+b) Heizöl EL, Dieselkraftstoff, Methanol, Ethanol, naturbelassenen Pflanzenölen oder Pflan-
+zenölmethylestern, naturbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung
+oder Wasserstoff, mit einer Feuerungswärmeleistung von
+---  weniger als 1 Megawatt
+2 b --- ---  1 Megawatt und mehr bis weniger als 3 Megawatt 2.3 0502 633,20 €
+2 b --- ---  3 Megawatt und mehr bis weniger als 6 Megawatt 2.3 0502 849,50 €
+2 b --- ---  6 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0502 1.062,60 €
+2 b 1 5  10 Megawatt und mehr bis weniger als 20 Megawatt 2.2 0501 5.901,00 €
+--- 1 5  20 Megawatt und mehr 2.2 0501 5.901,00 €
+ausgenommen Verbrennungsmotoranlagen für Boranlagen und Notstromaggregate
+1.5 Gasturbinenanlagen zum Antrieb von Arbeitsmaschinen für den Einsatz von Heizöl EL, Dieselkraft-
+stoff, Methanol, Ethanol, naturbelassenen Pflanzenölen, Pflanzenölmethylestern oder gasförmi-
+gen Brennstoffen (insbesondere Koksofengas, Grubengas, Stahlgas, Raffineriegas, Synthesegas,
+Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas, naturbelassenem Erdgas, Flüssiggas,
+Gasen der öffentlichen Gasversorgung, Wasserstoff) mit einer Feuerungswärmeleistung von
+--- --- ---  weniger als 1 Megawatt
+2 a --- ---  1 Megawatt und mehr bis weniger als 3 Megawatt 2.3 0502 633,20 €
+2 a --- ---  3 Megawatt und mehr bis weniger als 6 Megawatt 2.3 0502 849,50 €
+2 a --- ---  6 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0502 1.062,60 €
+2 a 1 5  10 Megawatt und mehr bis weniger als 50 Megawatt 2.2 0501 5.901,00 €
+ausgenommen Anlagen mit geschlossenem Kreislauf
+1 1 5  50 Megawatt und mehr 2.2 0501 5.901,00 €
+Gasturbinenanlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitz-
+tem Abgas für den Einsatz von
+a) gasförmigen Brennstoffen (insbesondere Koksofengas, Grubengas, Stahlgas, Raffineriegas,
+Synthesegas, Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas), mit einer Feue-
+rungswärmeleistung von
+--- --- ---  weniger als 1 Megawatt
+2 b --- ---  1 Megawatt und mehr bis weniger als 3 Megawatt 2.3 0502 633,20 €
+2 b --- ---  3 Megawatt und mehr bis weniger als 6 Megawatt 2.3 0502 849,50 €
+
+
+--- PAGE 4 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+102
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 b --- ---  6 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0502 1.062,60 €
+--- 1 5  10 Megawatt und mehr 2.2 0501 5.901,00 €
+b) Heizöl EL, Dieselkraftstoff, Methanol, Ethanol, naturbelassenen Pflanzenölen oder Pflan-
+zenölmethylestern, naturbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung
+oder Wasserstoff , mit einer Feuerungswärmeleistung von
+--- --- ---  weniger als 1 Megawatt
+2 b --- ---  1 Megawatt und mehr bis weniger als 3 Megawatt 2.3 0502 633,20 €
+2 b --- ---  3 Megawatt und mehr bis weniger als 6 Megawatt 2.3 0502 849,50 €
+2 b --- ---  6 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0502 1.062,60 €
+2 b 1 5  10 Megawatt und mehr bis weniger als 20 Megawatt 2.2 0501 5.901,00 €
+ausgenommen Anlagen mit geschlossenem Kreislauf
+--- 1 5  20 Megawatt und mehr 2.2 0501 5.901,00 €
+1.6 Windfarmen mit
+--- --- ---  weniger als 3 Windkraftanlagen 2.7 ---
+2 --- ---  3 Windkraftanlagen und mehr bis weniger als 6 Windkraftanlagen 2.3 0502 633,20 €
+1 --- ---  6 Windkraftanlagen und mehr bis weniger als 9 Windkraftanlagen 2.3 0502 849,50 €
+1 --- ---  9 Windkraftanlagen und mehr bis weniger als 12 Windkraftanlagen 2.3 0502 1.062,60 €
+1 --- ---  12 Windkraftanlagen und mehr bis weniger als 15 Windkraftanlagen 2.3 0502 1.207,50 €
+1 --- ---  15 Windkraftanlagen und mehr je Windkraftanlagen 2.3 0502 102,20 €
+--- Kühltürme mit einem Kühlwasserdurchsatz je Stunde von
+--- --- ---  weniger als 10.000 Kubikmetern 2.7 ---
+--- 1 6  10.000 Kubikmetern oder mehr bis weniger als 25.000 Kubikmetern 2.2 0501 3.748,50 €
+--- 1 6  25.000 Kubikmetern oder mehr bis weniger als 50.000 Kubikmetern 2.2 0501 5.901,00 €
+--- 1 6  50.000 Kubikmetern oder mehr 2.2 0501 7.854,00 €
+bei Kühltürmen von Anlagen zur Spaltung von Kernbrennstoffen oder zur Aufarbeitung bestrahlter
+Kernbrennstoffe
+Anfrage
+1.8 Elektroumspannanlagen einschließlich der Schaltfelder, ausgenommen eingehauste Elektroum-
+spannanlagen mit einer Oberspannung von
+---  weniger als 220 Kilovolt 2.7 ---
+2  220 Kilovolt oder mehr 2.3 0502 849,50 €
+1.9 Anlagen zum Mahlen oder Trocknen von Kohle mit einer Leistung je Stunde von
+--- --- ---  weniger als 1 Tonne
+2 --- ---  1 Tonne oder mehr bis weniger als 10 Tonnen 2.3 0502 633,20 €
+2 --- ---  10 Tonnen oder mehr bis weniger als 20 Tonnen 2.3 0502 849,50 €
+2 --- ---  20 Tonnen oder mehr bis weniger als 30 Tonnen 2.3 0502 1.062,60 €
+2 1 7  30 Tonnen oder mehr bis weniger als 50 Tonnen 2.2 0501 3.748,50 €
+2 1 7  50 Tonnen oder mehr bis weniger als 100 Tonnen 2.2 0501 5.901,00 €
+2 1 7  100 Tonnen oder mehr 2.2 0501 7.854,00 €
+
+
+--- PAGE 5 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+103
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1.10 1 1 8 Anlagen zum Brikettieren von Braun- oder Steinkohle 2.2 0501 5.901,00 €
+1.11 1 1 9 2.2 0501 5.901,00 €
+2 1
+Anlagen zur Trockendestillation, insbesondere von Steinkohle, Braunkohle, Holz, Torf oder Pech (z.B.
+Kokereien, Gaswerke und Schwelereien), ausgenommen Holzkohlemeiler 2.5 0500 Anfrage
+1.12 1 1 10 Anlagen zur Destillation oder Weiterverarbeitung von Teer oder Teererzeugnissen oder von Teer-
+oder Gaswasser
+2.2 0501 5.901,00 €
+1.13 2 1 11 2.2 0501 5.901,00 €
+2 1
+Anlagen zur Erzeugung von Generator- oder Wassergas aus festen Brennstoffen
+2.5 0500 Anfrage
+1.14 1 1 12 2.2 0501 5.901,00 €
+2 1
+Anlagen zur Vergasung oder Verflüssigung von Kohle oder bituminösem Schiefer
+2.5 0500 Anfrage
+1.15 2 1 13 2.2 0501 5.901,00 €
+2 1
+Anlagen zur Erzeugung von Stadt- oder Ferngas aus Kohlenwasserstoffen durch Spalten
+2.5 0500 Anfrage
+1.16 2 1 14 2.2 0501 5.901,00 €
+2 1
+Anlagen über Tage zur Gewinnung von Öl aus Schiefer oder anderen Gesteinen oder Sanden so-
+wie Anlagen zur Destillation oder Weiterverarbeitung solcher Öle 2.5 0500 Anfrage
+--- 1 15 Anlagen innerhalb von Kernbrennstoffabriken ATG Anfrage
+- zur chemischen Umwandung von Uran- oder Plutoniumverbindungen (Konversion),
+- zum Sintern von Brennstofftabletten oder
+- zum Aufbereiten von kernbrennstoffhaltigen Rückständen
+--- 1 16 Verfahrenstechnische Anlagen innerhalb von Urananreicherungsanlagen (Isotopentrennanlage
+oder Produktanlage) einschließlich Lager- und Hantierungsanlagen für Behälter mit Uranhexafluo-
+rid (UF)
+ATG Anfrage
+--- 1 17 Einrichtungen zur Aufbewahrung von Kernbrennstoffen in Form von löslichen Uranverbindungen ATG Anfrage
+--- 1 18 Einrichtungen zur Behandlung radioaktiver Abfälle ATG Anfrage
+2. Steine und Erden, Glas, Keramik, Baustoffe
+2.1 Steinbrüche
+a) soweit keine Sprengstoffe verwendet werden, mit einer Abbaufläche von
+---  weniger als 10 Hektar 2.7 ---
+1  10 Hektar oder mehr 2.3 0512 633,20 €
+b) soweit Sprengstoffe verwendet werden, mit einer Abbaufläche von
+2  weniger als 10 Hektar 2.3 0512 849,50 €
+1  10 Hektar oder mehr 2.3 0512 1.062,60 €
+2.2 2 Anlagen zum Brechen, Mahlen oder Klassieren von natürlichem oder künstlichem Gestein, ausge-
+nommen Klassieranlagen für Sand oder Kies
+2.3 0512 849,50 €
+2.3 1 1 19 Anlagen zur Herstellung von Zementklinker oder Zementen 2.2 0511 5.901,00 €
+2.4 Anlagen zum Brennen von Kalkstein mit einer Produktionsleistung je Tag von
+2 a 1 20  weniger als 50 Tonnen Branntkalk 2.2 0511 3.748,50 €
+
+
+--- PAGE 6 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+104
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1 1 20  50 Tonnen Branntkalk oder mehr 2.2 0511 5.901,00 €
+2 b 1 20 Anlagen zum Brennen von Bauxit, Dolomit, Gips, Kieselgur, Magnesit, Quarzit oder Ton zu Scha-
+motte
+2.2 0511 5.901,00 €
+2.5 2 Anlagen zum Mahlen von Gips, Kieselgur, Magnesit, Mineralfarben, Muschelschalen, Talkum, Ton,
+Tuff (Trass) oder Zementklinker
+2.3 0512 849,50 €
+2.6 1 Anlagen
+1 1 21 a) Bearbeitung oder Verarbeitung von Asbest 2.2 0511 EXIT
+1 1 21 b) Gewinnung von Asbest 2.2 0511 EXIT
+2 1 2.5 0510 EXIT
+1 c) zum mechanischen Be- oder Verarbeiten von Asbesterzeugnissen auf Maschinen 2.2 0511 EXIT
+2.7 2 1 23 Anlagen zum Blähen von Perlite, Schiefer oder Ton 2.2 0511 5.901,00 €
+2.8 Anlagen zur Herstellung von Glas, auch soweit es aus Altglas hergestellt wird, einschließlich Anla-
+gen zur Herstellung von Glasfasern, mit einer Schmelzleistung je Tag von
+--- 1 24  weniger als 100 Kilogramm 2.2 0511 5.901,00 €
+2 1 24  100 Kilogramm und mehr bis weniger als 20 Tonnen 2.2 0511 5.901,00 €
+1 1 24  20 Tonnen und mehr 2.2 0511 5.901,00 €
+die nicht für medizinische oder fernmeldetechnische Zwecke bestimmt sind
+2.9 Anlagen zum Säurepolieren oder Mattätzen von Glas oder Glaswaren
+unter Verwendung von Flusssäure mit einem Volumen der Wirkbäder von
+---  weniger als 0,05 Kubikmeter 2.1 8731
+2  0,05 Kubikmeter und mehr 2.3 0512 Tarif #2.1
+2.10 Anlagen zum Brennen keramischer Erzeugnisse, ausgenommen elektrisch beheizte Brennöfen, die
+diskontinuierlich und ohne Abluftführung betrieben werden
+a) soweit der Rauminhalt der Brennanlage
+---  weniger als 4 m³
+und die Besatzdichte je Kubikmeter Rauminhalt
+---  weniger als 100 Kilogramm beträgt 2.7 ---
+b) soweit Rauminhalt der Brennanlage
+2 --- ---  mehr als 4 m³ beträgt 2.3 0512 1.062,60 €
+oder die Besatzdichte je Kubikmeter Rauminhalt
+2 --- ---  100 Kilogramm und mehr bis weniger als 200 Kilogramm 2.3 0512 1.062,60 €
+2 --- ---  200 Kilogramm und mehr bis weniger als 300 Kilogramm 2.3 0512 1.207,50 €
+1 1 25  300 Kilogramm und mehr beträgt 2.2 0511 5.901,00 €
+ab 3 m³ Rauminhalt und einer Besatzdichter größer 300 kg je Kubikmeter Rauminhalt UHG-
+Anlage
+2.11 1 1 26 Anlagen zum Schmelzen mineralischer Stoffe einschließlich Anlagen zur Herstellung von Mineral-
+fasern
+2.2 0511 5.901,00 €
+
+
+--- PAGE 7 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+105
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2.13 Anlagen zur Herstellung von Beton, Mörtel oder Straßenbaustoffen unter Verwendung von Ze-
+ment mit , auch soweit die Einsatzstoffe lediglich trocken gemischt werden einer Leistung je Stun-
+de von
+--- --- ---  weniger als 100 Kubikmeter 2.7 ---
+2 --- ---  100 Kubikmeter und mehr bis weniger als 200 Kubikmeter 2.3 0512 633,20 €
+2 --- ---  200 Kubikmeter und mehr bis weniger als 500 Kubikmeter 2.3 0512 849,50 €
+2 --- ---  500 Kubikmeter und mehr 2.3 0512 1.062,60 €
+2.14 Anlagen zur Herstellung von Formstücken unter Verwendung von Zement oder anderen Binde-
+mitteln durch Stampfen, Schocken, Rütteln oder Vibrieren mit einer Produktionsleistung je Stunde
+von
+--- --- ---  weniger als 1 Tonne 2.7 ---
+2 --- ---  1 Tonne und mehr bis weniger als 5 Tonnen 2.3 0512 633,20 €
+2 --- ---  5 Tonnen und mehr bis weniger als 25 Tonnen 2.3 0512 849,50 €
+2 --- ---  25 Tonnen und mehr 2.3 0512 1.062,60 €
+2.15 Anlagen zur Herstellung oder zum Schmelzen von Mischungen aus Bitumen oder Teer mit Mine-
+ralstoffen einschließlich Aufbereitungsanlagen für bituminöse Straßenbaustoffe und Teersplittan-
+lagen, die länger als 12 Monate an demselben Ort betrieben (unabhängig der Produktionsleis-
+tung) werden mit einer Produktionsleistung je Stunde von
+2 1 27  weniger als 200 Tonnen 2.2 0511 5.901,00 €
+1 1 27  200 Tonnen und mehr 2.2 0511 5.901,00 €
+3. Stahl, Eisen und sonstige Metalle einschließlich Verarbeitung
+3.1 1 1 28 Anlagen zum Rösten (Erhitzen unter Luftzufuhr zur Überführung in Oxide), Schmelzen oder Sin-
+tern (Stückigmachen von feinkörnigen Stoffen durch Erhitzen) von Erzen
+2.2 0521 5.901,00 €
+3.2 Anlagen zur Herstellung oder zum Erschmelzen von Roheisen, mit einer Schmelzleistung je Stunde
+von
+a) Roheisen, mit einer Schmelzleistung je Stunde von
+--- 1 29  weniger als 2,5 Tonnen 2.2 0521 5.901,00 €
+1 b 1 29  2,5 Tonnen und mehr 2.2 0521 5.901,00 €
+b) Stahl, mit einer Schmelzleistung je Stunde von
+2 --- ---  weniger als 2,5 Tonnen 2.3 0522 1.062,60 €
+1 b 1 30  2,5 Tonnen und mehr 2.2 0521 5.901,00 €
+1 a 1 29 Integrierte Hüttenwerke (Anlagen zur Gewinnung von Roheisen und zur Weiterverarbeitung zu
+Rohstahl, bei denen sich Gewinnungs- und Weiterverarbeitungseinheiten nebeneinander befinden
+und in funktioneller Hinsicht miteinander verbunden sind)
+2.2 0521 5.901,00 €
+3.3 1 1 29 Anlagen zur Herstellung von Nichteisenrohmetallen aus Erzen, Konzentraten oder sekundären
+Rohstoffen durch metallurgische, chemische oder elektrolytische Verfahren
+2.2 0521 5.901,00 €
+3.4 Anlagen zum Schmelzen, zum Legieren oder zur Raffination von Nichteisenmetallen bei
+a) Blei und Cadmium, mit einer Schmelzleistung je Tag von
+
+
+--- PAGE 8 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+106
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+--- --- ---  weniger als 0,4 Tonnen 2.7 ---
+2 --- ---  0,4 Tonnen und mehr bis weniger als 0,5 Tonnen 2.3 0522 1.062,60 €
+2 1 31  0,5 Tonnen und mehr bis weniger als 1 Tonne 2.2 0521 3.748,50 €
+2 1 31  1 Tonne und mehr bis weniger als 2 Tonnen 2.2 0521 5.901,00 €
+2 1 31  2 Tonnen und mehr bis weniger als 4 Tonnen 2.2 0521 7.854,00 €
+1 1 31  4 Tonnen und mehr 2.2 0521 7.854,00 €
+b) sonstigen Nichteisenmetallen, nicht jedoch Zink oder Zinklegierungen, mit einer Schmelzleis-
+tung je Tag von
+--- --- ---  weniger als 0,5 Tonnen 2.7 ---
+--- 1 31  0,5 Tonnen und mehr bis weniger als 1 Tonne 2.2 0521 3.748,50 €
+--- 1 31  1 Tonne und mehr bis weniger als 2 Tonnen 2.2 0521 5.901,00 €
+2 1 31  2 Tonnen und mehr bis weniger als 20 Tonnen 2.2 0521 7.854,00 €
+1 1 31  20 Tonnen und mehr 2.2 0521 7.854,00 €
+c) Zink oder Zinklegierungen, mit einer Schmelzleistung je Tag von
+--- --- ---  weniger als 1 Tonne 2.7 ---
+--- 1 31  1 Tonne und mehr bis weniger als 2 Tonnen 2.2 0521 3.748,50 €
+2 1 31  2 Tonnen und mehr bis weniger als 4 Tonnen 2.2 0521 5.901,00 €
+2 1 31  4 Tonnen und mehr bis weniger als 20 Tonnen 2.2 0521 7.854,00 €
+1 1 31  20 Tonnen und mehr 2.2 0521 7.854,00 €
+ausgenommen
+- Vakuum-Schmelzanlagen,
+- Schmelzanlagen für Gusslegierungen aus Zinn und Wismut oder aus Feinzink und Aluminium
+in Verbindung mit Kupfer oder Magnesium,
+- Schmelzanlagen, die Bestandteil von Druck- oder Kokillengießmaschinen sind oder die aus-
+schließlich im Zusammenhang mit einzelnen Druck- oder Kokillengießmaschinen gießfertige
+Nichteisenmetalle oder gießfertige Legierungen niederschmelzen,
+- Schmelzanlagen für Edelmetalle oder für Legierungen, die nur aus Edelmetallen oder aus E-
+delmetallen und Kupfer bestehen,
+- Schwalllötbäder und
+- Heißluftverzinnungsanlagen
+3.5 2 1 32 Anlagen zum Abziehen der Oberflächen von Stahl, insbesondere von Blöcken, Brammen, Knüp-
+peln, Platinen oder Blechen, durch Flämmen
+2.2 0521 5.901,00 €
+3.6 Anlagen zum Warmwalzen von
+1 1 33 a) Stahl 2.2 0521 5.901,00 €
+b) von Kaltband mit einer Bandbreite von
+--- --- ---  weniger als 650 Millimeter 2.7
+2 a 1 33  650 Millimeter 2.2 0521 5.901,00 €
+c) von Schwermetallen mit einer Leistung je Stunde von
+---  weniger als 1 Tonne
+
+
+--- PAGE 9 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+107
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 b --- ---  1 Tonne und mehr bis weniger als 2 Tonnen 2.3 0522 633,20 €
+2 b --- ---  2 Tonnen und mehr bis weniger als 5 Tonnen 2.3 0522 849,50 €
+2 b --- ---  8 Tonnen und mehr bis weniger als 8 Tonnen 2.3 0522 1.062,60 €
+2 b 1 33  8 Tonnen und mehr 2.2 0521 5.901,00 €
+d) von Leichtmetallen mit einer Leistung je Stunde von
+---  weniger als 0,5 Tonnen
+2 c --- ---  0,5 Tonnen und mehr bis weniger als 0,75 Tonnen 2.3 0522 633,20 €
+2 c --- ---  0,75 Tonnen und mehr bis weniger als 1,25 Tonnen 2.3 0522 849,50 €
+2 c --- ---  1,25 Tonnen und mehr bis weniger als 2 Tonnen 2.3 0522 1.062,60 €
+2 c 1 33  2 Tonnen und mehr 2.2 0521 5.901,00 €
+3.7 Eisen-, Temper- oder Stahlgießereien mit einer Produktionsleistung an Gussteilen je Tag von
+--- --- ---  weniger als 2 Tonnen *) 2.7 ---
+2  2 Tonnen und mehr bis weniger als 20 Tonnen *) 2.3 0522 1.062,60 €
+1  20 Tonnen und mehr *) 2.2 0521 5.901,00 €
+1 34 *) Gem. Anhang 1 Ziff. 34.zum UHG handelt es sich um eine UHG-Anlage, sofern die Produktions-
+leistung 80 Tonnen und mehr je Monat beträgt
+2.2 0521 5.901,00 €
+3.8 Gießereien für Nichteisenmetalle, soweit
+a) je Tag Blei und Cadmium abgegossen werden, mit einer Menge von
+--- 1 35  weniger als 0,4 Tonnen 2.2 0521 5.901,00 €
+2 1 35  0,4 Tonnen und mehr bis weniger als 4 Tonnen 2.2 0521 5.901,00 €
+1 1 35  4 Tonnen und mehr 2.2 0521 5.901,00 €
+b) je Tag sonstigen Nichteisenmetallen abgegossen werden, mit einer Menge von
+--- 1 35  weniger als 2 Tonnen 2.2 0521 5.901,00 €
+2 1 35  2 Tonnen und mehr bis weniger als 20 Tonnen 2.2 0521 5.901,00 €
+1 1 35  20 Tonnen und mehr 2.2 0521 5.901,00 €
+ausgenommen
+- Gießereien für Glocken- oder Kunstguß, 2.7 ---
+- Gießereien, in denen in metallische Formen abgegossen wird, 2.7 ---
+- Gießereien, in denen das Metall in ortsbeweglichen Tiegeln niedergeschmolzen wird und 2.7 ---
+- Gießereien zur Herstellung von Ziehwerkzeugen aus niedrigschmelzenden Gußlegierungen aus
+Zinn und Wismut oder aus Feinzink, Aluminium und Kupfer
+2.7 ---
+3.9 Anlagen zum Aufbringen von metallischen Schutzschichten
+a) auf Metalloberflächen mit Hilfe von schmelzflüssigen Bädern, mit einer Verarbeitungsleistung
+Rohgut je Stunde von
+--- --- ---  weniger als 0,5 Tonnen 2.7 ---
+2 a --- ---  0,5 Tonnen und mehr bis weniger als 1 Tonne 2.3 0522 1.062,60 €
+2 a 1 36  1 Tonne und mehr bis weniger als 2 Tonnen 2.2 0521 3.748,50 €
+1 1 36  2 Tonnen und mehr bis weniger als 10 Tonnen 2.2 0521 5.901,00 €
+1 1 36  10 Tonnen und mehr 2.2 0521 7.854,00 €
+
+
+--- PAGE 10 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+108
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+ausgenommen Anlagen zum kontinuierlichen Verzinken nach
+dem Sendzimirverfahren,
+b) auf Metall- oder Kunststoffoberflächen durch Flamm-, Plasma- oder Lichtbogenspritzen mit
+einem Durchsatz an Blei, Zinn, Zink, Nickel, Kobalt oder ihren Legierungen je Stunde von 2 Ki-
+logramm oder mehr
+---  weniger als 2 Kilogramm 2.7 ---
+2 b  2 Kilogramm und mehr bis weniger als 50 Kilogramm 2.3 0522 633,20 €
+2 b  20 Kilogramm und mehr bis weniger als 50 Kilogramm 2.3 0522 849,50 €
+2 b  50 Kilogramm und mehr bis weniger als 100 Kilogramm 2.3 0522 1.062,60 €
+2 b  100 Kilogramm und 2.3 0522 1.207,50 €
+2 b 1 36 ab einem Rohgutdurchsatz je Stunden von 1 Tonne und mehr 2.2 0521 5.901,00 €
+3.10 Anlagen zur Oberflächenbehandlung durch ein elektrolytisches oder flusschemisches Verfahren
+a) von Metallen mit einem Volumen der Wirkbäder von
+---  weniger als 1 Kubikmeter 2.1 8732
+2  1 Kubikmeter und mehr bis weniger als 30 Kubikmeter 2.3 0522 633,20 €
+1  30 Kubikmeter und mehr 2.3 0522 849,50 €
+b) von Kunststoffen mit einem Volumen der Wirkbäder von
+---  weniger als 30 Kubikmeter 2.1 8732
+1  30 Kubikmeter und mehr 2.3 0522 849,50 €
+3.11 Anlagen, die aus einem oder mehreren maschinell angetriebenen Hämmern bestehen, wenn die
+Schlagenergie eines Hammers
+--- --- ---  weniger als 1 Kilojoule 2.7 ---
+2 1 37  1 Kilojoule und mehr bis weniger als 20 Kilojoule 2.2 0521 3.748,50 €
+1 1 37  20 Kilojoule und mehr bis weniger als 100 Kilojoule 2.2 0521 5.901,00 €
+1 1 37  100 Kilojoule und mehr 2.2 0521 7.854,00 €
+beträgt; den Hämmern stehen Fallwerke gleich
+3.13 Anlagen zur Sprengverformung oder zum Plattieren mit Sprengstoffen bei einem Einsatz von
+Sprengstoff oder mehr je Schuss von
+--- --- ---  weniger als 10 Kilogramm 2.7 ---
+2 1 38  10 Kilogramm und mehr bis weniger als 50 Kilogramm 2.2 0521 3.748,50 €
+2 1 38  50 Kilogramm und mehr bis weniger als 100 Kilogramm 2.2 0521 5.901,00 €
+2 1 38  100 Kilogramm und mehr 2.2 0521 7.854,00 €
+3.15 Anlagen zur Herstellung oder Reparatur von
+a) Behältern aus Blech mit einem Rauminhalt von
+--- --- ---  weniger als 5 Kubikmetern 2.7 ---
+2 a --- ---  5 Kubikmetern und mehr 2.3 0522 633,20 €
+b) Containern mit einer Grundfläche von
+--- --- ---  weniger als 7 Quadratmetern 2.7 ---
+
+
+--- PAGE 11 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+109
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 b --- ---  7 Quadratmetern und mehr 2.3 0522 633,20 €
+3.16 1 1 40 Anlagen zur Herstellung von warm- gefertigten nahtlosen oder geschweißten Rohren aus Stahl 2.2 0521 5.901,00 €
+3.18 Anlagen zur Herstellung oder Reparatur von Schiffskörpern oder -sektionen aus Metall mit einer
+Länge von 20 Metern oder mehr
+--- --- ---  weniger als 20 Metern 2.7 ---
+1 1 41  20 Metern oder mehr 2.2 0521 5.901,00 €
+3.19 Anlagen zum Bau von Schienenfahrzeugen mit einer Produktionsleistung je Jahr von
+--- --- ---  weniger als 600 Schienenfahrzeugeinheiten 2.7 ---
+1 --- ---  600 Schienenfahrzeugeinheiten und mehr 2.3 0522 849,50 €
+1 Schienenfahrzeugeinheit entspricht:
+0,5 Lokomotiven, 1 Straßenbahn, 1 Wagen eines Triebzuges, 1 Triebkopf, 1 Personenwagen, 3
+Güterwagen
+3.20 2 --- --- Anlagen zur Oberflächenbehandlung von Gegenständen aus Stahl, Blech oder Guss mit festem
+Strahlmitteln, die außerhalb geschlossener Räume betrieben werden, ausgenommen nicht begeh-
+bare Handstrahlkabinen
+2.3 0522 849,50 €
+3.21 2 1 42 Anlagen zur Herstellung von Bleiakkumulatoren 2.2 0521 5.901,00 €
+3.22 2 1 43 Anlagen zur Herstellung von Metallpulver und -pasten durch Stampfen 2.2 0521 5.901,00 €
+3.23 2 1 44 Anlagen zur Herstellung von Aluminium-, Eisen- oder Magnesiumpulver oder -pasten oder von
+blei- oder nickelhaltigen Pulvern oder Pasten sowie von sonstigen Metallpulvern oder -pasten
+nach einem anderen als dem in Nummer 3.22 genannten Verfahren, ausgenommen Anlagen zur
+Herstellung von Edelmetallpulver
+2.2 0521 5.901,00 €
+3.24 Anlagen für den Bau und die Montage von Kraftfahrzeugen oder Anlagen für den Bau von Kraft-
+fahrzeugmotoren mit einer Leistung je Jahr von
+--- --- ---  weniger als 100.000 Stück 2.7 ---
+1 --- ---  100.000 Stück und mehr 2.3 0522 849,50 €
+3.25 Anlagen für den Bau und die Instandsetzung von Luftfahrzeugen, soweit je Jahr
+a) den Bau von Luftfahrzeugen, mit einer Stück-Leistung je Jahr von
+--- --- ---  weniger als 50 Luftfahrzeuge 2.7 ---
+1 --- ---  50 Luftfahrzeuge und mehr 2.3 0522 849,50 €
+b) die Instandsetzung (Reparatur) von Luftfahrzeugen, mit einer Stück-Leistung je Jahr von
+--- --- ---  weniger als 100 Luftfahrzeuge 2.7 ---
+1 --- ---  100 Luftfahrzeuge und mehr 2.3 0522 849,50 €
+ausgenommen Wartungsarbeiten
+4. Chemische Erzeugnisse, Arzneimittel, Mineralölraffination und Weiterverarbeitung
+4.1 1 45 2.2 0531 Anfrage
+2 1
+Anlagen zur Herstellung von Stoffen oder Stoffgruppen durch chemische Umwandlung in indus-
+triellem Umfang, insbesondere 2.5 0530 Anfrage
+
+
+--- PAGE 12 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+110
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1 a a) zur Herstellung von Kohlenwasserstoffen (lineare oder ringförmige, gesättigte oder ungesät-
+tigte, aliphatische oder aromatische),
+1 b b) zur Herstellung von sauerstoffhaltigen Kohlenwasserstoffen wie Alkohole, Aldehyde, Ketone,
+Carbonsäuren, Ester, Acetate, Ether, Peroxide, Epoxide,
+1 c c) zur Herstellung von schwefelhaltigen Kohlenwasserstoffen,
+1 d d) zur Herstellung von stickstoffhaltigen Kohlenwasserstoffen wie Amine, Amide, Nitroso-, Nitro-
+oder Nitratverbindungen, Nitrile, Cyanate, Isocyanate,
+1 e e) zur Herstellung von phosphorhaltigen Kohlenwasserstoffen
+1 f f) zur Herstellung von halogenhaltigen Kohlenwasserstoffen
+1 g g) zur Herstellung von metallorganischen Verbindungen,
+1 h h) zur Herstellung von Basiskunststoffen (Kunstharzen, Polymeren, Chemiefasern, Fasern auf
+Zellstoffbasis),
+1 i i) zur Herstellung von synthetischen Kautschuken,
+1 j j) zur Herstellung von Farbstoffen und Pigmenten sowie von Ausgangsstoffen für Farben und
+Anstrichmittel,
+1 k k) zur Herstellung von Tensiden,
+1 k l) zur Herstellung von Gasen wie Ammoniak, Chlor und Chlorwasserstoff, Fluor und Fluorwasser-
+stoff, Kohlenstoffoxiden, Schwefelverbindungen, Stickstoffoxiden, Wasserstoff, Schwefeldi-
+oxid, Phosgen,
+1 m m) zur Herstellung von Säuren wie Chromsäure, Flusssäure, Phosphorsäure, Salpetersäure, Salzsäu-
+re, Schwefelsäure, Oleum, schwefelige Säuren,
+1 n n) zur Herstellung von Basen wie Ammoniumhydroxid, Kaliumhydroxid, Natriumhydroxid,
+1 o o) zur Herstellung von Salzen wie Ammoniumchlorid, Kaliumchlorat, Kaliumkarbonat, Natrium-
+karbonat Perborat, Silbernitrat,
+1 p p) zur Herstellung von Nichtmetallen, Metalloxiden oder sonstigen anorganischen Verbindungen
+wie Kalziumkarbid, Silizium, Siliziumkarbid, anorganische Peroxide, Schwefel,
+1 q q) zur Herstellung von phosphor-, stickstoff- oder kaliumhaltigen Düngemitteln (Einnährstoff-
+oder Mehrnährstoffdünger),
+1 r r) zur Herstellung von Ausgangsstoffen für Pflanzenschutzmittel und von Bioziden,
+1 s s) zur Herstellung von Grundarzneimitteln (Wirkstoffen für Arzneimittel),
+1 t t) zur Herstellung von Explosivstoffen;
+hierzu gehören nicht Anlagen zur Erzeugung oder Spaltung von Kernbrennstoffen oder zur Auf-
+arbeitung bestrahlter Kernbrennstoffe
+--- 1 46 Anlagen zur Chemikalienaufbereitung und zur Abwasserbehandlung in Anlagen zur Aufarbeitung
+bestrahlter Kernbrennstoffe
+ATG Anfrage
+4.2 Anlagen, in denen Pflanzenschutz- oder Schädlingsbekämpfungsmittel oder ihre Wirkstoffe ge-
+mahlen oder maschinell gemischt, abgepackt oder umgefüllt werden, soweit diese Stoffe in einer
+Menge je Tag gehandhabt werden von
+--- 1 47  weniger als 5 Tonnen 2.2 0531 Anfrage
+2 2 1  5 Tonnen und mehr 2.5 0530 Anfrage
+
+
+--- PAGE 13 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+111
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+4.3 Anlagen zur fabrikmäßigen Herstellung von Arzneimitteln oder Arzneimittelzwischenprodukten,
+soweit
+2 a 1 48 a a) Pflanzen, Pflanzenteile oder Pflanzenbestandteile extrahiert, destilliert oder auf ähnliche Wei-
+se behandelt werden, ausgenommen Extraktionsanlagen mit Ethanol ohne Erwärmen,
+2.2 0531 5.901,00 €
+2 b 1 48 b b) Tierkörper, auch lebende Tiere, sowie Körperteile, Körperbestandteile und Stoffwechselpro-
+dukte von Tieren eingesetzt werden oder
+2.2 0531 5.901,00 €
+2 c 1 48 c c) Mikroorganismen sowie deren Bestandteile oder Stoffwechselprodukte verwendet werden 2.2 0531 5.901,00 €
+4.4 1 1 49 2.2 0531 Anfrage
+2 1
+Anlagen zur Destillation oder Raffination oder sonstigen Weiterverarbeitung von Erdöl oder Erd-
+ölerzeugnissen in Mineralöl-, Altöl oder Schmierstoffraffinerien in petrochemischen Werken oder
+bei der Gewinnung von Paraffin
+2.5 0530 Anfrage
+4.5 2 1 50 Anlagen zur Herstellung von Schmierstoffen, wie Schmieröle, Schmierfette, Metallbearbeitungsöle 2.2 0531 5.901,00 €
+4.6 1 1 51 Anlagen zur Herstellung von Ruß 2.2 0531 5.901,00 €
+4.7 1 1 52 Anlagen zur Herstellung von Kohlenstoff (Hartbrandkohle) oder Elektrographit durch Brennen,
+zum Beispiel für Elektroden, Stromabnehmer oder Apparateteile
+2.2 0531 5.901,00 €
+4.8 Anlagen zum Destillieren von flüchtigen organischen Verbindungen mit einer Durchsatzleistung je
+Stunde von
+--- --- ---  weniger als 1 Tonne 2.1 8733
+2 1 53  1 Tonne und mehr bis weniger als 2 Tonnen 2.2 0531 3.748,50 €
+2 1 53  2 Tonnen und mehr bis weniger als 5 Tonnen 2.2 0531 5.901,00 €
+2 1 53  5 Tonnen und mehr 2.2 0531 7.854,00 €
+4.9 Anlagen zum Erschmelzen von
+a) Kunstharzen mit einer Leistung je Tag von
+--- --- ---  weniger als 1 Tonne 2.1 8733
+2 --- ---  1 Tonne und mehr bis weniger als 2 Tonnen 2.3 0531 633,20 €
+2 --- ---  2 Tonnen und mehr bis weniger als 5 Tonnen 2.3 0531 849,50 €
+2 --- ---  5 Tonnen und mehr 2.3 0531 1.062,60 €
+b) Naturharzen mit einer Leistung je Tag von
+--- --- ---  weniger als 1 Tonne 2.1 8733
+2 1 54  1 Tonne und mehr bis weniger als 2 Tonnen 2.2 0531 3.748,50 €
+2 1 54  2 Tonnen und mehr bis weniger als 5 Tonnen 2.2 0531 5.901,00 €
+2 1 54  5 Tonnen und mehr 2.2 0531 7.854,00 €
+4.10 Anlagen zur Herstellung von
+a) Anstrich- oder Beschichtungsstoffen (Firnis, Lacke) oder Druckfarben mit einer Leistung je Tag
+von
+--- --- ---  weniger als 1 Tonne 2.1 8733
+--- 1 55  1 Tonne und mehr bis weniger als 10 Tonnen 2.2 0531 3.748,50 €
+--- 1 55  10 Tonnen und mehr bis weniger als 25 Tonnen 2.2 0531 5.901,00 €
+
+
+--- PAGE 14 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+112
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 1 55  25 Tonnen und mehr 2.2 0531 7.854,00 €
+b) Lasuren und Dispersionsfarben mit einer Leistung je Tag von
+--- --- ---  weniger als 25 Tonnen 2.1 8733
+2 --- ---  25 Tonnen und mehr 2.3 0532 Tarif #2.1
+5. Oberflächenbehandlung mit organischen Stoffen, Herstellung von bahnenförmigen Materialien aus Kunststoffen, sonstige Verarbeitung von
+Harzen und Kunststoffen
+5.1 Anlagen
+a) zur Behandlung von Oberflächen von Stoffen, Gegenständen oder Erzeugnissen einschließlich
+der dazugehörigen Trocknungsanlagen unter von organischen Lösungsmitteln, insbesondere
+zum Appretieren, Bedrucken, Beschichten, Entfetten, Imprägnieren, Kaschieren, Kleben, La-
+ckieren, Reinigen oder Tränken mit einem Verbrauch an organischen Lösungsmitteln je Stunde
+von
+--- --- ---  weniger als 25 Kilogramm 2.1 8733
+2 a 1 56  25 Kilogramm und mehr bis weniger als 100 Kilogramm 2.2 0541 3.748,50 €
+2 a 1 56  100 Kilogramm und mehr bis weniger als 150 Kilogramm 2.2 0541 5.901,00 €
+1 1 56  150 Kilogramm und mehr 2.2 0541 7.854,00 €
+oder je Jahr
+---  weniger als 15 Tonnen *) 2.1 8733
+2 a --- ---  15 Tonnen und mehr bis weniger als 200 Tonnen *)
+1  200 Tonnen und mehr *)
+Tariffierung erfolgt ausschließlich
+nach Verbrauch je Stunde
+*) ab 25 Kilogramm Verbrauch an organischen Lösungsmitteln je Stunde UHG-Anlage
+b) zum Bedrucken von bahnen- oder tafelförmigen Materialien mit Rotationsdruckmaschinen
+einschließlich der zugehörigen Trocknungsanlagen, soweit die Farben oder Lacke
+-organische Lösungsmittel mit einem Anteil von mehr als 50 Gew.-% an Ethanol enthalten und
+der Verbrauch in der Anlage insgesamt je Stunden
+--- --- ---  weniger als 50 Kilogramm 2.1 8731
+2 b 1 57 a  50 Kilogramm und mehr bis weniger als 150 Kilogramm beträgt 2.2 0541 3.748,50 €
+1 1 57 a  150 Kilogramm und mehr bis weniger als 500 Kilogramm beträgt 2.2 0541 5.901,00 €
+1 1 57 a  500 Kilogramm und mehr 2.2 0541 7.854,00 €
+oder je Jahr
+---  weniger als 30 Tonnen
+2 a  30 Tonnen und mehr bis weniger als 200 Tonnen
+1  200 Tonnen und mehr
+Tariffierung erfolgt ausschließlich
+nach Verbrauch je Stunde
+--- -sonstige organische Lösungsmittel enthalten und der Verbrauch in der Anlage insgesamt je
+Stunden
+--- --- ---  weniger als 25 Kilogramm 2.1 8731
+2 b 1 57 b  25 Kilogramm und mehr bis weniger als 150 Kilogramm beträgt 2.2 0541 3.748,50 €
+1 1 57 b  150 Kilogramm und mehr bis weniger als 250 Kilogramm beträgt 2.2 0541 5.901,00 €
+1 1 57 b  250 Kilogramm und mehr 2.2 0541 7.854,00 €
+
+
+--- PAGE 15 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+113
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+oder je Jahr
+---  weniger als 15 Tonnen
+2 a  15 Tonnen und mehr bis weniger als 200 Tonnen
+1  200 Tonnen und mehr
+Tariffierung erfolgt ausschließlich
+nach Verbrauch je Stunde
+ausgenommen Anlagen, soweit die Farben oder Lacke ausschließlich hochsiedende Öle (mit ei-
+nem Dampfdruck von weniger als 0,01 Kilopascal bei einer Temperatur von 293,15 Kelvin) als
+organische Lösungsmittel enthalten
+5.2 Anlagen zum Beschichten, Imprägnieren, Kaschieren, Lackieren oder Tränken von Gegenständen,
+Glas- oder Mineralfasern oder bahnen- oder tafel- fasern oder bahnen- oder tafelförmigen Mate-
+rialien einschließlich der zugehörigen Trocknungsanlagen mit Kunstharzen, die unter weitgehen-
+der Selbstvernetzung Ausreagieren (Reaktionsharze), wie Melamin-, Harnstoff-, Phenol-, Epoxid-,
+Furan-, Kresol-, Resorcin- oder Polyesterharzen, soweit die Menge dieser Harze je Stunde
+--- --- ---  weniger als 10 Kilogramm 2.1 8731
+2 --- ---  10 Kilogramm und mehr bis weniger als 25 Kilogramm 2.3 0542 1.062,60 €
+1 1 56  25 Kilogramm und mehr bis weniger als 100 Kilogramm 2.2 0541 3.748,50 €
+1 1 56  100 Kilogramm und mehr bis weniger als 250 Kilogramm 2.2 0541 5.901,00 €
+1 1 56  250 Kilogramm und mehr 2.2 0541 7.854,00 €
+beträgt, ausgenommen Anlagen für den Einsatz von Pulverbeschichtungsstoffen
+5.4 Anlagen zum Tränken oder Überziehen von Stoffen oder Gegenständen mit Teer, Teeröl oder
+heißem Bitumen, unter Verwendung von Kohlenwasserstoffen je Stunde von
+--- 1 59  weniger als 25 Kilogramm 2.2 0541 5.901,00 €
+2 1 59  25 Kilogramm und mehr 2.2 0541 5.901,00 €
+beträgt, ausgenommen Anlagen zum Tränken oder Überziehen von Kabeln mit heißem Bitumen
+5.5 2 1 60 Anlagen zum Isolieren von Drähten unter Verwendung von phenol- oder kresolhaltigen Drahtla-
+cken
+2.2 0541 5.901,00 €
+5.6 2 1 61 Anlagen zur Herstellung von bahnenförmigen Materialien auf Streichmaschinen einschließlich der
+zugehörigen Trocknungsanlagen unter Verwendung von Gemischen aus Kunststoffen und
+Weichmachern oder von Gemischen aus sonstigen Stoffen und oxidiertem Leinöl
+2.2 0541 5.901,00 €
+5.7 Anlagen zur Verarbeitung von flüssigen ungesättigten Polyesterharzen mit Styrol-Zusatz oder
+flüssigen Epoxidharzen mit Aminen zu
+a) Formmassen (zum Beispiel Harzmatten oder Faserformmassen) oder
+b) Formteilen oder Fertigerzeugnissen, soweit keine geschlossenen Werkzeuge (Formen) verwen-
+det werden,
+für einen Harzverbrauch je Woche von
+--- --- ---  weniger als 500 Kilogramm 2.1 8733
+2 --- ---  500 Kilogramm und mehr 2.3 0542 Tarif #2.1
+
+
+--- PAGE 16 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+114
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+5.8 Anlagen zur Herstellung von Gegenständen unter Verwendung von Amino- oder Phenoplasten,
+wie Furan-, Harnstoff-, Phenol-, Resorcin- oder Xylolharzen mittels Wärmebehandlung, mit einem
+Einsatz der Ausgangsstoffe je Stunde von
+--- --- ---  weniger als 10 Kilogramm 2.1 8733
+2 --- ---  10 Kilogramm und mehr 2.3 0542 Tarif #2.1
+5.9 Anlagen zur Herstellung von Reibbelägen unter Einsatz von an Phenoplasten oder sonstigen
+Kunstharzbindemitteln, soweit kein Asbest eingesetzt wird mit einer Verwendung dieser Stoffe je
+Stunde von
+--- --- ---  weniger als 10 Kilogramm 2.7 ---
+2 --- ---  10 Kilogramm und mehr 2.3 0542 849,50 €
+5.10 2 --- --- Anlagen zur Herstellung von künstlichen Schleifscheiben, -körpern, -papieren oder -geweben
+unter Verwendung organischer Binde- oder Lösungsmittel, ausgenommen Anlagen, die von
+Nummer 5.1 erfasst werden
+2.3 0542 849,50 €
+5.11 Anlagen zur Herstellung von Polyurethanformteilen, Bauteilen unter Verwendung von Polyu-
+rethan, Polyurethanblöcken in Kastenformen oder zum Ausschäumen von Hohlräumen mit Polyu-
+rethan, soweit die Menge der Polyurethan-Ausgangsstoffe je Stunde
+--- --- ---  weniger als 200 Kilogramm
+2 --- ---  200 Kilogramm und mehr bis weniger als 300 Kilogramm 2.3 0542 633,20 €
+2 --- ---  300 Kilogramm und mehr bis weniger als 500 Kilogramm 2.3 0542 849,50 €
+2 --- ---  500 Kilogramm und mehr 2.3 0542 1.062,60 €
+beträgt,
+ausgenommen Anlagen zum Einsatz von thermoplastischen Polyurethangranulat
+6. Holz, Zellstoff
+6.1 1 1 62 Anlagen zur Gewinnung von Zellstoff aus Holz, Stroh oder ähnlichem Faserstoff 2.2 0551 5.901,00 €
+6.2 Anlagen zur Herstellung von Papier, Karton oder Pappe mit einer Produktionsleistung je Tag von
+2 --- ---  weniger als 20 Tonnen 2.3 0552 Tarif #2.1
+ausgenommen Anlagen, die aus einer oder mehreren Maschinen zur
+Herstellung von Papier, Karton oder Pappe bestehen, soweit die
+Bahnlänge des Papiers, des Kartons oder der Pappe bei allen Ma-
+schinen weniger als 75 Meter beträgt
+1 --- ---  20 Tonnen und mehr 2.3 0552 Tarif #2.1
+6.3 Anlagen zur Herstellung
+2 1 63 a) Holzspanplatten oder Holzfasermatten 2.2 0551 5.901,00 €
+1 1 63 b) Holzfaserplatten 2.2 0551 5.901,00 €
+7. Nahrungs-, Genuss- und Futtermittel, landwirtschaftliche Erzeugnisse
+7.1 Anlagen zum Halten oder zur Aufzucht von Geflügel oder Pelztieren oder zum Halten oder zur
+getrennten Aufzucht von Rindern oder Schweinen mit
+a) Hennenplätzen
+
+
+--- PAGE 17 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+115
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+--- --- ---  weniger als 15.000 2.7 ---
+2 a --- ---  15.000 und mehr bis weniger als 20.000 2.3 0562 1.213,30 €
+1 --- ---  20.000 und mehr bis weniger als 50.000 2.3 0562 1.582,40 €
+1 1 64 a  50.000 und mehr 2.2 0561 5.901,00 €
+b) Junghennenplätze
+--- --- ---  weniger als 30.000 2.7 ---
+2 a --- ---  30.000 und mehr bis weniger als 40.000 2.3 0562 1.213,30 €
+1 --- ---  40.000 und mehr bis weniger als 100.000 2.3 0562 1.582,40 €
+1 1 64 b  100.000 und mehr 2.2 0561 5.901,00 €
+c) Mastgeflügelplätze
+--- --- ---  weniger als 30.000 2.7 ---
+2 a --- ---  30.000 und mehr bis weniger als 40.000 2.3 0562 1.213,30 €
+1 --- ---  40.000 und mehr bis weniger als 100.000 2.3 0562 1.582,40 €
+1 1 64 c  100.000 und mehr 2.2 0561 5.901,00 €
+d) Truthühnermastplätzen
+--- --- ---  weniger als 15.000 2.7 ---
+2 a --- ---  15.000 und mehr bis weniger als 20.000 2.3 0562 1.213,30 €
+1 --- ---  20.000 und mehr 2.3 0562 1.582,40 €
+e) Rinderplätzen
+--- --- ---  weniger als 250 2.7 ---
+2 a --- ---  250 und mehr bis weniger als 350 2.3 0562 1.213,30 €
+1 --- ---  350 und mehr 2.3 0562 1.582,40 €
+f) Kälberplätzen
+--- --- ---  weniger als 300 2.7 ---
+2 a --- ---  300 und mehr bis weniger als 1.000 2.3 0562 1.213,30 €
+1 --- ---  1.000 und mehr 2.3 0562 1.582,40 €
+g) Mastschweineplätzen
+--- --- ---  weniger als 1.500 2.7 ---
+2 a --- ---  1.500 und mehr bis weniger als 1.700 2.3 0562 1.582,40 €
+2 a 1 64 d  1.700 und mehr bis weniger als 2.000 2.2 0561 5.901,00 €
+1 1 64 d  2.000 und mehr 2.2 0561 5.901,00 €
+h) Sauenplätzen
+--- --- ---  weniger als 500 2.7 ---
+2 a 1 64 e  500 und mehr bis weniger als 750 2.2 0561 5.901,00 €
+1 1 64 e  750 und mehr 2.2 0561 5.901,00 €
+i) Ferkelplätzen
+--- --- ---  weniger als 4.500 2.7 ---
+2 a --- ---  4.500 und mehr bis weniger als 6.000 2.3 0562 1.213,30 €
+1 --- ---  6.000 und mehr 2.3 0562 1.582,40 €
+
+
+--- PAGE 18 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+116
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+j) Pelztierplätzen
+--- --- ---  weniger als 750 2.7 ---
+2 a --- ---  750 und mehr bis weniger als 1.000 2.3 0562 1.213,30 €
+1 --- ---  1.000 und mehr 2.3 0562 1.582,40 €
+bei gemischten Beständen werden die Vom-Hundert-Anteile, bis zu denen die vorgenannten
+Platzzahlen jeweils ausgeschöpft werden, addiert; erreicht die Summe der Vom-Hundert-Anteile
+einen Wert von 100, ist ein Genehmigungsverfahren durchzuführen
+2 b --- --- Anlagen zum Halten oder zur Aufzucht von Nutztieren mit Plätzen für 50 Großvieheinheiten oder
+mehr und mehr als 2 Großvieheinheiten je Hektar der vom Inhaber der Anlage regelmäßig land-
+wirtschaftlich genutzten Fläche oder ohne landwirtgenutzte Fläche.
+Eine Großvieheinheit entspricht einem Lebendgewicht von 500 Kilogramm je Haltungsperiode.
+2.3 0562 1.582,40 €
+7.2 Anlagen zum Schlachten von Tieren mit einer Leistung je Tag von
+a) Lebendgewicht Geflügel
+--- --- ---  weniger als 0,5 Tonnen 2.7 ---
+2 a --- ---  0,5 Tonnen und mehr bis weniger als 5 Tonnen 2.3 0562 633,20 €
+2 a --- ---  5 Tonnen und mehr bis weniger als 10 Tonnen 2.3 0562 849,50 €
+2 a --- ---  10 Tonnen und mehr bis weniger als 25 Tonnen 2.3 0562 1.062,60 €
+2 a --- ---  25 Tonnen und mehr bis weniger als 50 Tonnen 2.3 0562 1.213,30 €
+1 --- ---  50 Tonnen und mehr 2.3 0562 1.582,40 €
+b) Lebendgewicht sonstiger Tiere
+--- --- ---  weniger als 4 Tonnen 2.7 ---
+2 b --- ---  4 Tonnen und mehr bis weniger als 10 Tonnen 2.3 0562 849,50 €
+2 b --- ---  10 Tonnen und mehr bis weniger als 25 Tonnen 2.3 0562 1.062,60 €
+2 b --- ---  25 Tonnen und mehr bis weniger als 50 Tonnen 2.3 0562 1.213,30 €
+1 --- ---  50 Tonnen und mehr 2.3 0562 1.582,40 €
+7.3 Anlagen
+a) zur Erzeugung von Speisefetten aus tierischen Rohstoffen, ausgenommen von Milch, ausge-
+nommen Anlagen zur Erzeugung von Speisefetten aus selbst gewonnenen tierischen Fetten in
+Fleischereien mit einer Leistung bis zu 200 Kilogramm Speisefett je Woche, mit einer Produkti-
+onsleistung je Tag von
+2 a --- ---  weniger als 75 Tonnen Fertigerzeugnissen 2.3 0562 Tarif #2.1
+1 a --- ---  75 Tonnen Fertigerzeugnissen und mehr 2.3 0562 Tarif #2.1
+b) Anlagen zum Schmelzen von tierischen Fetten, ausgenommen Anlagen zur Verarbeitung von
+selbst gewonnenen tierischen Fetten zu Speisefetten in Fleischereien mit einer Leistung bis zu
+200 Kilogramm Speisefett je Woche, mit einer Produktionsleistung je Tag von
+2 b --- ---  weniger als 75 Tonnen Fertigerzeugnissen 2.3 0562 Tarif #2.1
+1 b --- ---  75 Tonnen Fertigerzeugnissen und mehr 2.3 0562 Tarif #2.1
+7.4 Anlagen zur
+a) Herstellung von Fleisch- oder Gemüsekonserven aus
+
+
+--- PAGE 19 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+117
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+aa) tierischen Rohstoffen mit einer Produktionsleistung je Tag von
+--- ---  weniger als 1 Tonne Konserven 2.7 ---
+2 a --- ---  1 Tonne und mehr bis weniger als 10 Tonnen Konserven 2.3 0562 633,20 €
+2 a --- ---  10 Tonnen und mehr bis weniger als 20 Tonnen Konserven 2.3 0562 849,50 €
+2 a --- ---  20 Tonnen und mehr bis weniger als 50 Tonnen Konserven 2.3 0562 1.062,60 €
+2 a --- ---  50 Tonnen und mehr bis weniger als 75 Tonnen Konserven 2.3 0562 1.213,30 €
+1a --- ---  75 Tonnen Konserven und mehr 2.3 0562 1.582,40 €
+bb) pflanzlichen Rohstoffen mit einer Produktionsleistung Vierteljahresdurchschnittswert je
+Tag von
+ weniger als 10 Tonnen Konserven 2.7 ---
+2 a --- ---  10 Tonnen und mehr bis weniger als 75 Tonnen Konserven 2.3 0562 633,20 €
+2 a --- ---  75 Tonnen und mehr bis weniger als 150 Tonnen Konserven 2.3 0562 849,50 €
+2 a --- ---  150 Tonnen und mehr bis weniger als 200 Tonnen Konserven 2.3 0562 1.062,60 €
+2 a --- ---  200 Tonnen und mehr bis weniger als 300 Tonnen Konserven 2.3 0562 1.213,30 €
+1a --- ---  300 Tonnen Konserven und mehr 2.3 0562 1.582,40 €
+1 b --- --- b) fabrikmäßigen Herstellung von Tierfutter durch Erwärmen der Bestandteile tierischer Herkunft 2.3 0562 1.582,40 €
+7.5 Anlagen zum Räuchern von Fleisch- oder Fischwaren mit einer Produktionsleistung je Tag von
+2 --- ---  weniger als 5 Tonne 2.3 0562 633,20 €
+2 --- ---  5 Tonne und mehr bis weniger als 20 Tonnen 2.3 0562 849,50 €
+2 --- ---  20 Tonnen und mehr bis weniger als 40 Tonnen 2.3 0562 1.062,60 €
+2 --- ---  40 Tonnen und mehr bis weniger als 75 Tonnen 2.3 0562 1.213,30 €
+ausgenommen
+- Anlagen in Gaststätten,
+- Räuchereien mit einer Räucherleistung von weniger als 1 Tonne
+Fleisch-
+oder Fischwaren je Woche
+- Anlagen, bei denen mindestens 90 vom Hundert der Abgase kon-
+struktionsbedingt der Anlage wieder zugeführt werden
+1 --- ---  75 Tonnen geräucherten Waren und mehr 2.3 0562 1.582,40 €
+7.6 2 --- --- Anlagen zum Reinigen oder zum Entschleimen von tierischen Därmen oder Mägen, ausgenommen
+Anlagen, in denen weniger Därme oder Mägen je Tag behandelt werden als beim Schlachten von
+weniger als 4 Tonnen sonstiger Tiere nach Nummer 7.2 Spalte 2 Buchstabe b anfallen
+2.3 0562 849,50 €
+7.7 2 --- --- Anlagen zur Zubereitung oder Verarbeitung von Kälbermägen zur Labgewinnung, ausgenommen
+Anlagen, in denen weniger Kälbermägen je Tag eingesetzt werden als beim Schlachten von weni-
+ger als 4 Tonnen sonstiger Tiere nach Nummer 7.2 Spalte 2 Buchstabe b anfallen
+2.3 0562 849,50 €
+7.8 1 --- --- Anlagen zur Herstellung von Gelatine, Hautleim, Lederleim oder Knochenleim 2.3 0562 1.213,30 €
+7.9 1 --- --- Anlagen zur Herstellung von Futter- oder Düngemitteln oder technischen Fetten aus den
+Schlachtnebenprodukten Knochen, Tierhaare, Federn, Hörner, Klauen oder Blut
+2.3 0562 1.213,30 €
+
+
+--- PAGE 20 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+118
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+7.10 2 --- --- Anlagen zum Lagern oder Aufarbeiten unbehandelter Tierhaare mit Ausnahme von Wolle, ausge-
+nommen Anlagen für selbst gewonnene Tierhaare in Anlagen, die nicht durch Nummer 7.2 erfasst
+werden
+2.3 0562 1.213,30 €
+7.11 1 --- --- Anlagen zum Lagern unbehandelter Knochen, ausgenommen Knochen in 2.3 0562 1.213,30 €
+--- --- --- - Fleischereien, in denen je Woche weniger als 4.000 kg Fleisch verarbeitet werden, 2.7 ---
+--- --- --- - Anlagen, die nicht durch Nr. 7.2 erfasst werden. 2.7 ---
+7.12 1 1 65 Anlagen zur Tierkörperbeseitigung sowie Anlagen, in denen Tierkörperteile oder Erzeugnisse
+tierischer Herkunft zur Beseitigung in Tierkörperbeseitigungsanlagen gesammelt oder gelagert
+werden
+2.2 0561 5.901,00 €
+7.13 2 --- --- Anlagen zum Trocknen, Einsalzen oder Lagern ungegerbter Tierhäute oder Tierfelle, ausgenom-
+men Anlagen, in denen weniger Tierhäute oder Tierfelle je Tag behandelt werden als beim
+Schlachten von weniger als 4 Tonnen sonstiger Tiere nach Nummer 7.2 Spalte 2 Buchstabe b anfal-
+len
+2.3 0562 849,50 €
+7.14 Anlagen zum Gerben einschließlich Nachgerben von Tierhäuten oder Tierfellen mit einer Verar-
+beitungsleistung je Tag von
+2 --- ---  weniger als 12 Tonnen Fertigerzeugnissen 2.3 0562 Tarif #2.1
+1 --- ---  12 Tonnen Fertigerzeugnissen und mehr 2.3 0562 Tarif #2.1
+ausgenommen Anlagen, in denen weniger Tierhäute oder Tierfelle behandelt werden als beim
+Schlachten von weniger als 4 Tonnen sonstiger Tiere nach Nummer 7.2 Spalte 2 Buchstabe b anfal-
+len
+7.15 1 --- --- Kottrocknungsanlagen 2.3 0562 1.213,30 €
+7.16 1 --- --- Anlagen zur Herstellung von Fischmehl oder Fischöl 2.3 0562 1.213,30 €
+7.17 Anlagen
+a) zum Umschlag oder zur Umschlag von ungefasstem Fischmehl , mit der Bewegungs- oder Ver-
+arbeitungsmöglichkeit je Tag von
+--- --- ---  weniger als 200 Tonnen 2.7 ---
+2 --- ---  200 Tonnen und mehr bis weniger als 500 Tonnen 2.3 0562 633,20 €
+2 --- ---  500 Tonnen und mehr bis weniger als 1.000 Tonnen 2.3 0562 849,50 €
+2 --- ---  1.000 Tonnen und mehr 2.3 0562 1.062,60 €
+1 --- --- b) zur Aufbereitung oder ungefassten Lagerung von Fischmehl 2.3 0562 1.062,60 €
+7.18 2 Garnelendarren (Krabbendarren) oder Kochereien für Futterkrabben 2.3 0562 1.213,30 €
+7.19 Anlagen zur Herstellung von Sauerkraut mit einer Produktionsleistung je Tag von
+--- --- ---  weniger als 10 Tonnen 2.7 ---
+2 --- ---  10 Tonnen und mehr bis weniger als 100 Tonnen 2.3 0562 633,20 €
+2 --- ---  100 Tonnen und mehr bis weniger als 300 Tonnen 2.3 0562 849,50 €
+1 --- ---  300 Tonnen und mehr 2.3 0562 1.062,60 €
+
+
+--- PAGE 21 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+119
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+7.20 Anlagen zum Trocknen von Braumalz (Mälzereien) mit einer Produktionsleistung als Vierteljahres-
+durchschnittswert je Tag von
+2  weniger als 300 Tonnen 2.3 0562 849,50 €
+1 --- ---  300 Tonnen und mehr 2.3 0562 1.062,60 €
+7.21 Mühlen für Nahrungs- oder Futtermittel mit einer Produktionsleistung Fertigerzeugnissen je Tag
+von
+--- --- ---  weniger als 300 Tonnen 2.7 ---
+1 --- ---  300 Tonnen und mehr bis weniger als 500 Tonnen 2.3 0562 1.062,60 €
+1 1 66  500 Tonnen und mehr bis weniger als 1.000 Tonnen 2.2 0561 3.748,50 €
+1 1 66  1.000 Tonnen und mehr bis weniger als 2.500 Tonnen 2.2 0561 5.901,00 €
+1 1 66  2.500 Tonnen und mehr 2.2 0561 7.854,00 €
+7.22 Anlagen zur Herstellung von Hefe oder Stärkemehlen mit einer Produktionsleistung an Hefe oder
+Stärkemehlen als Vierteljahresdurchschnittswert je Tag von
+--- --- ---  weniger als 1 Tonne 2.7 ---
+2 --- ---  1 Tonne und mehr bis weniger als 300 Tonnen 2.3 0562 849,50 €
+1 --- ---  300 Tonnen und mehr 2.3 0562 1.062,60 €
+7.23 Anlagen
+a) zum Extrahieren pflanzlicher Fette oder Öle, soweit die Menge des eingesetzten Extraktions-
+mittels 1 Tonne oder mehr beträgt mit einer Produktionsleistung an Fertigerzeugnisse je Tag
+als Vierteljahresdurchschnittswert von
+2 --- ---  weniger als 1 Tonne 2.3 0562 1.213,30 €
+2 1 67  1 Tonne und mehr bis weniger als 150 Tonnen 2.2 0561 3.748,50 €
+2 1 67  150 Tonnen und mehr bis weniger als 300 Tonnen 2.2 0561 5.901,00 €
+1 1 67  300 Tonnen und mehr 2.2 0561 7.854,00 €
+b) zur Erzeugung von Ölen oder Fetten aus pflanzlichen Rohstoffen mit einer Produktionsleistung
+an Fertigerzeugnisse je Tag als Vierteljahresdurchschnittswert von
+--- --- ---  weniger als 300 Tonnen 2.1 ---
+1 --- ---  300 Tonnen und mehr 2.3 0562 Tarif #2.1
+7.24 1 --- --- Anlagen zur Herstellung oder Raffination von Zucker unter Verwendung von Zuckerrüben oder
+Rohzucker
+2.3 0562 1.213,30 €
+7.25 2 --- --- Anlagen zur Trocknung von Grünfutter, ausgenommen Anlagen zur Trocknung von selbst gewon-
+nenem Grünfutter im landwirtschaftlichen Betrieb
+2.3 0562 849,50 €
+7.26 2 --- --- Hopfen-Schwefeldarren 2.3 0562 849,50 €
+7.27 a) Brauereien mit einem Ausstoß Bier je Tag als Vierteljahresdurchschnittswert von
+--- --- ---  weniger als 200 Hektoliter 2.7 ---
+2 a --- ---  200 Hektoliter und mehr bis weniger als 3.000 Hektoliter 2.3 0562 633,20 €
+1 --- ---  3.000 Hektoliter und mehr bis weniger als 10.000 Hektoliter 2.3 0562 849,50 €
+
+
+--- PAGE 22 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+120
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1 --- ---  10.000 Hektoliter und mehr 2.3 0562 1.062,60 €
+2 b b) Anlagen zur Trocknung von Biertreber 2.3 0562 849,50 €
+2 c c) Melassebrennereien 2.3 0562 849,50 €
+7.28 Anlagen zur Herstellung von Speisewürzen aus
+a) tierischen Rohstoffen mit einer Produktionsleistung Speisewürzen je Tag von
+2 a --- ---  weniger als 75 Tonnen 2.3 0562 849,50 €
+1 a --- ---  75 Tonnen und mehr 2.3 0562 1.062,60 €
+b) pflanzlichen Rohstoffen mit einer Produktionsleistung Speisewürzen je Tag als Vierteljahres-
+durchschnittswert von
+2 b --- ---  weniger als 300 Tonnen 2.3 0562 849,50 €
+1 b --- ---  300 Tonnen und mehr 2.3 0562 1.062,60 €
+7.29 Anlagen zum Rösten oder Mahlen von Kaffee oder Abpacken von gemahlenem Kaffee mit einer
+Produktionsleistung je Tag als Vierteljahresdurchschnittswert von
+--- --- ---  weniger als 0,5 Tonnen 2.7 ---
+2 --- ---  0,5 Tonnen und mehr bis weniger als 300 Tonnen 2.3 0562 849,50 €
+1 --- ---  300 Tonnen und mehr 2.3 0562 1.062,60 €
+7.30 Anlagen zum Rösten von Kaffee-Ersatzprodukten, Getreide, Kakaobohnen oder Nüssen mit einer
+Produktionsleistung Speisewürzen je Tag als Vierteljahresdurchschnittswert von
+--- --- ---  weniger als 1 Tonne 2.7 ---
+2 --- ---  1 Tonne und mehr bis weniger als 300 Tonnen 2.3 0562 849,50 €
+1 --- ---  300 Tonnen und mehr 2.3 0562 1.062,60 €
+7.31 Anlagen zur Herstellung von Süßwaren oder Sirup aus
+a) tierischen Rohstoffen, mit einer Produktionsleistung Süßwaren oder Sirup je Tag von
+2 --- ---  weniger als 75 Tonnen 2.3 0562 849,50 €
+ausgenommen Herstellung von Lakritz, mit einer Produktionsleis-
+tung von weniger als 50 Kilogramm je Tag
+1 --- ---  75 Tonnen und mehr 2.3 0562 1.062,60 €
+ausgenommen von Milch
+b) pflanzlichen Rohstoffen, mit einer Produktionsleistung Süßwaren oder Sirup als Vierteljahres-
+durchschnittswert je Tag von
+2 --- ---  weniger als 300 Tonnen 2.3 0562 849,50 €
+ausgenommen Herstellung von Kakaomasse aus Rohkakao oder
+thermischen Veredelung von Kakao oder Schokoladenmasse, mit ei-
+ner Produktionsleistung von weniger als 50 Kilogramm je Tag
+1 --- ---  300 Tonnen und mehr 2.3 0562 1.062,60 €
+7.32 Anlagen
+a) mit Sprühtrocknern zum Trocknen von Milch, Erzeugnissen aus Milch oder von Milchbestand-
+teilen mit einem Einsatz Milch je Tag als Jahresdurchschnittswert von
+
+
+--- PAGE 23 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+121
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+--- --- ---  weniger als 5 Tonnen 2.7 ---
+2 --- ---  5 Tonnen und mehr bis weniger als 200 Tonnen 2.3 0562 849,50 €
+1 --- ---  200 Tonnen und mehr 2.3 0562 1.062,60 €
+b) zur sonstigen Behandlung oder Verarbeitung von Milch mit einem Einsatz Milch je Tag als
+Jahresdurchschnittswert von
+--- --- ---  weniger als 200 Tonnen 2.7 ---
+1 --- ---  200 Tonnen und mehr 2.3 0562 849,50 €
+7.33 2 Anlagen zum Befeuchten von Tabak unter Zuführung von Wärme oder Aromatisieren oder zum
+Trocknen von fermentiertem Tabak
+2.3 0562 849,50 €
+7.34 Anlagen zur Herstellung von sonstigen Nahrungsmittelerzeugnissen aus
+a) tierischen Rohstoffen, ausgenommen von Milch, mit einer Produktionsleistung je Tag von
+--- --- ---  weniger als 75 Tonnen 2.7 ---
+1 a --- ---  75 Tonnen und mehr 2.3 0562 849,50 €
+b) pflanzlichen Rohstoffen mit einer Produktionsleistung an Fertigerzeugnissen je Tag als Viertel-
+jahresdurchschnittswert von
+--- --- ---  weniger als 300 Tonnen 2.7 ---
+1 b --- ---  300 Tonnen und mehr 2.3 0562 849,50 €
+8. Verwertung und Beseitigung von Abfällen und sonstigen Stoffen
+8.1 2 a 1 68 a) Anlagen zum Abfackeln von Deponiegas oder anderen gasförmigen Stoffen 2.2 0571 Anfrage
+2 1 2.5 0570 Anfrage
+1 a 1 69 2.2 0571 Anfrage
+2 1
+b) Anlagen zur Beseitigung oder Verwertung fester, flüssiger oder in Behältern gefasster gasför-
+miger Abfälle oder Deponiegas mit brennbaren Bestandteilen durch thermische Verfahren,
+insbesondere Entgasung, Plasmaverfahren, Pyrolyse, Vergasung, Verbrennung oder eine Kom-
+bination dieser Verfahren
+2.5 0570 Anfrage
+c) Verbrennungsmotoranlagen für den Einsatz von Altöl oder Deponiegas mit einer Feuerungs-
+wärmeleistung von
+2 b 1 4  weniger als 1 Megawatt 2.2 0571 5.901,00 €
+1 b 1 4  1 Megawatt und mehr 2.2 0571 7.854,00 €
+8.2 Anlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas
+durch den Einsatz von
+a) gestrichenem, lackiertem oder beschichtetem Holz sowie daraus anfallenden Resten, soweit
+keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind oder Be-
+schichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten, mit ei-
+ner Feuerungswärmeleistung von
+-- --- ---  weniger als 1 Megawatt 2.7 ---
+2 a --- ---  1 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0572 633,20 €
+2 a --- ---  10 Megawatt und mehr bis weniger als 30 Megawatt 2.3 0572 849,50 €
+2 a --- ---  30 Megawatt und mehr bis weniger als 50 Megawatt 2.3 0572 1.062,60 €
+
+
+--- PAGE 24 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+122
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1 a 1 2 a  50 Megawatt und mehr siehe Ziffer 1.1
+b) Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holz sowie daraus anfallenden
+Resten, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten
+sind oder Beschichtungen nicht aus halogenorganischen Verbindungen bestehen, mit einer
+Feuerungswärmeleistung von
+-- --- ---  weniger als 1 Megawatt 2.7 ---
+2 b --- ---  1 Megawatt und mehr bis weniger als 10 Megawatt 2.3 0572 633,20 €
+2 b --- ---  10 Megawatt und mehr bis weniger als 30 Megawatt 2.3 0572 849,50 €
+2 b --- ---  30 Megawatt und mehr bis weniger als 50 Megawatt 2.3 0572 1.062,60 €
+1 b 1 2 a  50 Megawatt und mehr siehe Ziffer 1.1
+in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, sonstige Feuerungs-
+anlage), einschließlich zugehöriger Dampfkessel
+8.3 Anlagen zur
+a) Behandlung edelmetallhaltiger Abfälle einschließlich der Präparation, soweit die Menge der
+Einsatzstoffe je Tag
+-- --- ---  weniger als 10 Kilogramm 2.7 ---
+2 a --- ---  10 Kilogramm und mehr bis weniger als 50 Kilogramm 2.3 0572 Anfrage
+2 a --- ---  50 Kilogramm und mehr bis weniger als 100 Kilogramm 2.3 0572 Anfrage
+2 a --- ---  100 Kilogramm und mehr bis weniger als 200 Kilogramm 2.3 0572 Anfrage
+2 a 1 70 2.2 0571 Anfrage
+2 2
+ 200 Kilogramm und mehr
+2.5 0570 Anfrage
+beträgt, zum Zweck der Rückgewinnung von Metallen oder Metallverbindungen durch thermi-
+sche Verfahren, insbesondere Pyrolyse, Verbrennung oder eine Kombination dieser Verfahren,
+sofern diese Abfälle nicht besonders überwachungsbedürftig sind, auf die die Vorschriften des
+Kreislaufwirtschafts- und Abfallgesetzes Anwendung finden
+2 b 1 70 2.2 0571 Anfrage
+2 2
+b) von mit organischen Verbindungen verunreinigten Metallen, Metallspänen oder Walzzunder,
+zum Zweck der Rückgewinnung von Metallen oder Metallverbindungen durch thermische Ver-
+fahren, insbesondere Pyrolyse, Verbrennung oder eine Kombination dieser Verfahren, sofern
+diese Abfälle nicht besonders überwachungsbedürftig sind, auf die die Vorschriften des Kreis-
+laufwirtschafts- und Abfallgesetzes Anwendung finden
+2.5 0570 Anfrage
+1 1 70 2.2 0571 Anfrage
+2 2
+c) thermischen Aufbereitung von Stahlwerksstäuben für die Gewinnung von Metallen oder Me-
+tallverbindungen im Drehrohr oder in einer Wirbelschicht 2.5 0570 Anfrage
+8.4 2 Anlagen, in denen Stoffe aus in Haushaltungen anfallenden oder aus hausmüllähnlichen Abfällen,
+auf die Vorschriften des Kreislaufwirtschafts- und Abfallgesetzes Anwendung finden, durch Sortie-
+ren für den Wirtschaftskreislauf zurückgewonnen werden, mit einer
+Durchsatzleistung je Tag von
+-- --- ---  weniger als 10 Tonnen 2.7 ---
+2 a --- ---  10 Tonnen und mehr bis weniger als 30 Tonnen 2.3 0572 Anfrage
+2 a --- ---  30 Tonnen und mehr bis weniger als 50 Tonnen 2.3 0572 Anfrage
+
+
+--- PAGE 25 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+123
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 a --- ---  50 Tonnen und mehr bis weniger als 100 Tonnen 2.3 0572 Anfrage
+2 a --- ---  100 Tonnen und mehr 2.3 0572 Anfrage
+8.5 Anlagen zur Erzeugung von Kompost (Kompostwerke) aus organischen Abfällen, auf die die Vor-
+schriften des Kreislaufwirtschafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleis-
+tung an Einsatzstoffen je Jahr von
+-- 1 73  weniger als 3.000 Tonnen 2.2 0571 Anfrage
+2 1 73  3.000 Tonnen und mehr bis weniger als 30.000 Tonnen 2.2 0571 Anfrage
+1 1 73  30.000 Tonnen und mehr 2.2 0571 Anfrage
+8.6 Anlagen zur biologischen Behandlung von
+a) besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung je Tag von
+-- 1 75  weniger als 1 Tonne 2.2 0571 Anfrage
+2 a 1 75  1 Tonne und mehr bis weniger als 10 Tonnen 2.2 0571 Anfrage
+1 a 1 75  10 Tonnen und mehr 2.2 0571 Anfrage
+b) nicht besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislauf-
+wirtschafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung je Tag von
+-- --- ---  weniger als 10 Tonnen 2.7
+2 b --- ---  10 Tonnen und mehr bis weniger als 50 Tonnen 2.3 0572 Anfrage
+1 b --- ---  50 Tonnen und mehr 2.3 0572 Anfrage
+8.7 Anlagen zur Behandlung von verunreinigtem Boden, auf den die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden, durch biologische Verfahren, Entgasen, Strippen
+oder Waschen mit einem Einsatz verunreinigtem Boden je Tag je Tag von
+-- 1 75  weniger als 1 Tonne 2.2 0571 Anfrage
+2 1 75  1 Tonne und mehr bis weniger als 10 Tonnen 2.2 0571 Anfrage
+1 1 75  10 Tonnen und mehr 2.2 0571 Anfrage
+8.8 Anlagen zur chemischen Behandlung, insbesondere zur chemischen Emulsionsspaltung, Fällung,
+Flockung, Neutralisation oder Oxidation, von
+1 a 1 74 2.2 0571 Anfrage
+2 1
+a) besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung je Tag von 2.5 0570 Anfrage
+b) nicht besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislauf-
+wirtschafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung je Tag von
+--  weniger als 10 Tonnen
+2  10 Tonnen und mehr bis weniger als 50 Tonnen
+1 b
+1
+2
+74
+1  50 Tonnen und mehr
+2.2
+2.5
+0571
+0570
+Anfrage
+Anfrage
+8.9 a) Anlagen zum Zerkleinern von Schrott durch Rotormühlen mit einer Nennleistung des Rotoran-
+triebes von
+-- --- ---  weniger als 100 Kilowatt 2.7 ---
+2 a --- ---  100 Kilowatt und mehr bis weniger als 200 Kilowatt 2.3 0572 633,20 €
+
+
+--- PAGE 26 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+124
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 a --- ---  200 Kilowatt und mehr bis weniger als 350 Kilowatt 2.3 0572 849,50 €
+2 a --- ---  350 Kilowatt und mehr bis weniger als 500 Kilowatt 2.3 0572 1.062,60 €
+1 a 1 39  500 Kilowatt und mehr bis weniger als 750 Kilowatt 2.2 0571 3.748,50 €
+1 a 1 39  750 Kilowatt und mehr bis weniger als 1.000 Kilowatt 2.2 0571 5.901,00 €
+1 a 1 39  1.000 Kilowatt und mehr 2.2 0571 7.854,00 €
+b) Anlagen zur zeitweiligen Lagerung von Eisen- oder Nichteisenschrotten, ausgenommen Auto-
+wracks, mit einer Gesamtlagerfläche von
+-- 1 75  weniger als 1.000 Quadratmeter 2.2 0571 Anfrage
+2 b 1 75  1.000 Quadratmeter und mehr bis weniger als 15.000 Quadratmeter 2.2 0571 Anfrage
+1 b 1 75  15.000 Quadratmeter und mehr 2.2 0571 Anfrage
+oder
+einer Gesamtlagerkapazität
+-- 1 75  weniger als 100 Tonnen 2.2 0571 Anfrage
+2 b 1 75  100 Tonnen und mehr bis weniger als 1.500 Tonnen 2.2 0571 Anfrage
+1 b 1 75  1.500 Tonnen und mehr 2.2 0571 Anfrage
+ausgenommen die zeitweilige Lagerung bis zum Einsammeln auf dem Gelände der Entstehung
+der Abfälle und Anlagen, die durch Nummer 8.13 erfasst werden
+c) Anlagen zur zeitweiligen Lagerung von Autowracks, mit einer Gesamtlagerfläche von
+-- 1 77  weniger als 1.000 Quadratmeter 2.2 0571 Anfrage
+2 b 1 77  1.000 Quadratmeter und mehr bis weniger als 15.000 Quadratmeter 2.2 0571 Anfrage
+1 b 1 77  15.000 Quadratmeter und mehr 2.2 0571 Anfrage
+oder
+einer Gesamtlagerkapazität
+-- 1 77  weniger als 100 Tonnen 2.2 0571 Anfrage
+2 b 1 77  100 Tonnen und mehr bis weniger als 1.500 Tonnen 2.2 0571 Anfrage
+1 b 1 77  1.500 Tonnen und mehr 2.2 0571 Anfrage
+ausgenommen die zeitweilige Lagerung bis zum Einsammeln auf dem Gelände der Entstehung
+der Abfälle und Anlagen, die durch Nummer 8.13 erfasst werden
+d) Anlagen zur Behandlung von Altautos mit einer Durchsatzleistung je Woche von
+-- 1 77  weniger als 5 Autos 2.2 0571 Anfrage
+2 c 1 77  5 Autos und mehr 2.2 0571 Anfrage
+8.10 Anlagen zur physikalisch-chemischen Behandlung, insbesondere zum Destillieren, Kalzinieren,
+Trocknen oder Verdampfen, von
+a) besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung Einsatzstoffen je
+Tag von
+-- 1 75  weniger als 1 Tonne 2.2 0571 Anfrage
+2 a 1 75  1 Tonne und mehr bis weniger als 10 Tonnen 2.2 0571 Anfrage
+1 a 1 75  10 Tonnen und mehr 2.2 0571 Anfrage
+
+
+--- PAGE 27 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+125
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+b) nicht besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislauf-
+wirtschafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung Einsatzstoffen
+je Tag von
+-- --- ---  weniger als 10 Tonnen 2.7
+2 b --- ---  10 Tonnen und mehr bis weniger als 50 Tonnen 2.3 0572 Anfrage
+1 b --- ---  50 Tonnen und mehr 2.3 0572 Anfrage
+8.11 a) Anlagen zur Behandlung von besonders überwachungsbedürftigen Abfällen, auf die die Vor-
+schriften des Kreislaufwirtschafts- und Abfallgesetzes Anwendung finden,
+a) durch Vermengung oder Vermischung sowie durch Konditionierung,
+b) zum Zweck der Hauptverwendung als Brennstoff oder der Energieerzeugung durch andere
+Mittel,
+c) zum Zweck der Ölraffination oder anderer Wiederverwendungsmöglichkeiten von Öl,
+d) zum Zweck der Regenerierung von Basen oder Säuren,
+e) zum Zweck der Rückgewinnung oder Regenerierung von organischen Lösungsmitteln oder
+f) zum Zweck der Wiedergewinnung von Bestandteilen, die der Bekämpfung von Verunrei-
+nigungen dienen
+mit einer Durchsatzleistung von Einsatzstoffen je Tag von
+-- 1 75  weniger als 10 Tonnen 2.2 0571 Anfrage
+2 a 1 75  10 Tonnen und mehr bis weniger als 50 Tonnen 2.2 0571 Anfrage
+1 a 1 75  50 Tonnen und mehr 2.2 0571 Anfrage
+b) Anlagen zur sonstigen Behandlung von
+a) besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung je Tag von
+-- 1 75  weniger als 1 Tonne 2.2 0571 Anfrage
+2 b 1 75  1 Tonne und mehr 2.2 0571 Anfrage
+b) nicht besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreis-
+laufwirtschafts- und Abfallgesetzes Anwendung finden, mit einer Durchsatzleistung je Tag
+von
+-- --- ---  weniger als 10 Tonnen 2.7 ----
+2 b --- ---  10 Tonnen und mehr 2.3 0572 Anfrage
+8.12 Anlagen zur zeitweiligen Lagerung von
+a) von nicht besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreis-
+laufwirtschafts- und Abfallgesetzes Anwendung finden, mit einer Aufnahmekapazität je Tag
+von
+-- --- ---  weniger als 10 Tonnen 2.7 ---
+2 b --- ---  10 Tonnen und mehr 2.3 0572 Anfrage
+oder einer Gesamtlagerkapazität von
+-- --- ---  weniger als 100 Tonnen 2.7 --- Anfrage
+2 b --- ---  100 Tonnen und mehr 2.3 0572 Anfrage
+
+
+--- PAGE 28 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+126
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+ausgenommen die zeitweilige Lagerung bis zum Einsammeln auf dem Gelände der Entstehung
+der Abfälle und Anlagen, die von Nummer 8.14 erfasst werden
+b) besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden, mit einer Aufnahmekapazität je Tag von
+-- 1 75  weniger als 1 Tonne 2.2 0571 Anfrage
+2 a 1 75  1 Tonne und mehr bis weniger als 10 Tonnen 2.2 0571 Anfrage
+1 1 75  10 Tonnen und mehr 2.2 0571 Anfrage
+oder einer Gesamtlagerkapazität von
+-- 1 75  weniger als 30 Tonnen
+2 a 1 75  10 Tonnen und mehr bis weniger als 150 Tonnen 2.2 0571 Anfrage
+1 1 75  150 Tonnen und mehr 2.2 0571 Anfrage
+ausgenommen die zeitweilige Lagerung bis zum Einsammeln auf dem Gelände der Entstehung
+der Abfälle und Anlagen, die von Nummer 8.14 erfasst werden
+2.2 0571 Anfrage
+8.13 Anlagen zur zeitweiligen Lagerung
+a) von nicht besonders überwachungsbedürftigen Schlämmen, auf die die Vorschriften des Kreis-
+laufwirtschafts- und Abfallgesetzes Anwendung finden, mit einer Aufnahmekapazität je Tag
+von
+-- --- ---  weniger als 10 Tonnen 2.7 ---
+2 --- ---  10 Tonnen und mehr 2.3 0572 Anfrage
+oder einer Gesamtlagerkapazität von
+-- --- ---  weniger als 100 Tonnen 2.7 ---
+2 --- ---  100 Tonnen und mehr 2.3 0572 Anfrage
+b) von besonders überwachungsbedürftigen Schlämmen, auf die die Vorschriften des Kreislauf-
+wirtschafts- und Abfallgesetzes Anwendung finden, mit einer Aufnahmekapazität je Tag von
+-- 1 75  weniger als 10 Tonnen 2.2 0571 Anfrage
+1 1 75  10 Tonnen und mehr 2.2 0571 Anfrage
+oder einer Gesamtlagerkapazität von
+-- 1 75  weniger als 100 Tonnen 2.2 0571 Anfrage
+1 1 75  100 Tonnen und mehr 2.2 0571 Anfrage
+8.14 Anlagen zum Lagern von
+a) von nicht besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreis-
+laufwirtschafts- und Abfallgesetzes Anwendung finden und soweit in diesen Anlagen Abfälle
+vor deren Beseitigung oder Verwertung jeweils über einen Zeitraum von mehr als einem Jahr
+gelagert werden, mit einer Aufnahmekapazität je Tag von
+2 1 75  weniger als 10 Tonnen 2.2 0571 Anfrage
+1 b 1 75  10 Tonnen und mehr 2.2 0571 Anfrage
+oder einer Gesamtlagerkapazität von
+2 1 75  weniger als 150 Tonnen 2.2 0571 Anfrage
+1 b 1 75  150 Tonnen und mehr 2.2 0571 Anfrage
+
+
+--- PAGE 29 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+127
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1 a 1 75 b) besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden und soweit in diesen Anlagen Abfälle vor de-
+ren Beseitigung oder Verwertung jeweils über einen Zeitraum von mehr als einem Jahr gela-
+gert werden
+2.2 0571 Anfrage
+8.15 Anlagen zum Umschlagen von
+a) von nicht besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreis-
+laufwirtschafts- und Abfallgesetzes Anwendung finden, mit einer Leistung je Tag von
+--- --- ---  weniger als 100 Tonnen 2.7 ---
+2 b 1 72  100 Tonnen und mehr 2.2 0571 Anfrage
+1 a b) besonders überwachungsbedürftigen Abfällen, auf die die Vorschriften des Kreislaufwirt-
+schafts- und Abfallgesetzes Anwendung finden, mit einer Leistung je Tag von
+--- --- ---  weniger als 1 Tonne 2.7 ---
+2 a --- ---  1 Tonne und mehr bis weniger als 10 Tonnen 2.3 0572 Anfrage
+1 --- ---  10 Tonnen und mehr bis weniger als 100 Tonnen 2.3 0572 Anfrage
+1 1 72  100 Tonnen und mehr 2.2 0571 Anfrage
+ausgenommen Anlagen zum Umschlagen von Erdaushub oder von Gestein, das bei der Gewin-
+nung oder Aufbereitung von Bodenschätzen anfällt
+9. Lagerung, Be- und Entladen von Stoffen und Zubereitungen
+9.1 a) Anlagen zur Lagerung von brennbaren Gasen oder Erzeugnissen, die brennbare Gase z.B. als
+Treibmittel oder Brenngas enthalten, soweit es sich um Einzelbehältnisse mit einem Volumen
+von jeweils nicht mehr als 1.000 Kubikzentimeter handelt, mit einer Lagermenge von
+--- --- ---  weniger als 30 Tonnen 2.1 8733
+2 --- ---  30 Tonnen und mehr 2.3 8730 s. Anlage
+b) Anlagen zur Lagerung von brennbaren Gasen in Behältern mit einem Fassungsvermögen von
+---  weniger als 3 Tonnen 2.1 8733
+2 a 1 78  3 Tonnen und mehr bis weniger als 30 Tonnen 2.2 8740 s. Anlage
+1 1 78  30 Tonnen und mehr 2.5 8750 s. Anlage
+9.2 Anlagen, die der Lagerung von brennbaren Flüssigkeiten in Behältern dienen
+a) die einen Flammpunkt unter 294,15 Kelvin haben und deren Siedepunkt bei Normaldruck
+(101,3 Kilopascal) über 293,15 Kelvin liegt, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 a --- ---  5 Tonnen und mehr bis weniger als 10 Tonnen 2.3 8730 s. Anlage
+2 a 1 79  10 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.2 8740 s. Anlage
+b) bei sonstigen brennbarer Flüssigkeiten, mit einem Fassungsvermögen von
+--- --- ---  weniger als 10 Tonnen 2.1 8733
+2 b 1 79  10 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 1 79  50 Tonnen und mehr 2.5 8750 s. Anlage
+
+
+--- PAGE 30 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+128
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+9.3 Anlagen, die der Lagerung von Acrylnitril dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 20 Tonnen 2.1 8733
+2 --- ---  20 Tonnen und mehr bis weniger als 200 Tonnen 2.3 8730 s. Anlage
+1 --- ---  200 Tonnen und mehr bis weniger als 350 Tonnen 2.3 8730 s. Anlage
+1 1 80  350 Tonnen und mehr 2.2 8740
+9.4 Anlagen, die der Lagerung von Chlor dienen, mit einem Fassungsvermögen von
+--- ---  weniger als 10 Tonnen 2.1 8733
+2 1 81  10 Tonnen und mehr bis weniger als 75 Tonnen 2.2 8740 s. Anlage
+1 2 1  75 Tonnen und mehr 2.5 8750 s. Anlage
+9.5 Anlagen, die der Lagerung von Schwefeldioxid dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 20 Tonnen 2.1 8733
+2 1 82  20 Tonnen und mehr bis weniger als 250 Tonnen 2.2 8740 s. Anlage
+1 2 1  250 Tonnen und mehr 2.5 8750 s. Anlage
+9.6 Anlagen, die der Lagerung von flüssigem Sauerstoff dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 200 Tonnen 2.1 8733
+2 1 83  200 Tonnen und mehr bis weniger als 2.000 Tonnen 2.2 8740 s. Anlage
+1 2 1  2.000 Tonnen und mehr 2.5 8750 s. Anlage
+9.7 Anlagen zum Lagern von Ammoniumnitrat oder ammoniumnitrathaltiger Zubereitungen der
+Gruppe A nach Anhang IV Nr. 2 der Gefahrstoffverordnung vom 26. August 1986 (BGBl. I S. 1470),
+mit einem Fassungsvermögen von
+--- --- ---  weniger als 25 Tonnen 2.1 8733
+2 1 84  25 Tonnen und mehr bis weniger als 500 Tonnen 2.2 8740 s. Anlage
+1 2 1  500 Tonnen und mehr 2.5 8750 s. Anlage
+9.8 Anlagen, die der Lagerung von Alkalichlorat dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 1 85  5 Tonnen und mehr bis weniger als 100 Tonnen 2.2 8740 s. Anlage
+1 2 1  100 Tonnen und mehr 2.5 8750 s. Anlage
+9.9 Anlagen, die der Lagerung von Pflanzenschutz- oder Schädlingsbekämpfungsmittel oder ihrer
+Wirkstoffe dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 1 86  5 Tonnen und mehr bis weniger als 100 Tonnen 2.2 8740 s. Anlage
+1 2 1  100 Tonnen und mehr 2.5 8750 s. Anlage
+9.11 Offene oder unvollständig geschlossene Anlagen zum Be- oder Entladen von Schüttgütern, die im
+trockenen Zustand stauben können, durch Kippen von Wagen oder Behältern oder unter Verwen-
+dung von Baggern, Schaufelladegeräten, Greifern, Saughebern oder ähnlichen Einrichtungen, mit
+einer Leistung je Tag von
+--- --- ---  weniger als 400 Tonnen Schüttgüter 2.7 ---
+
+
+--- PAGE 31 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+129
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 ---  400 Tonnen und mehr bis weniger als 1.000 Tonnen Schüttgüter 2.3 0582 633,20 €
+2 ---  1.000 Tonnen und mehr bis weniger als 2.000 Tonnen Schüttgüter 2.3 0582 849,50 €
+2 ---  2.000 Tonnen Schüttgüter und mehr 2.3 0582 1.062,60 €
+ausgenommen Anlagen zum Be- oder Entladen von Erdaushub oder von Gestein, das bei der Ge-
+winnung oder Aufbereitung von Bodenschätzen anfällt
+9.12 Anlagen, die der Lagerung von Schwefeltrioxid dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 15 Tonnen
+2 --- ---  15 Tonnen und mehr bis weniger als 100 Tonnen 2.3 8730 s. Anlage
+1 1 87  100 Tonnen und mehr 2.5 8750 s. Anlage
+2 1
+9.13 Anlagen, die der Lagerung von ammoniumnitrathaltiger Zubereitungen der Gruppe B nach An-
+hang III Nr. 6 der Gefahrstoffverordnung dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 100 Tonnen 2.1 8733
+2 1 88  100 Tonnen und mehr bis weniger als 2.500 Tonnen 2.2 8740 s. Anlage
+1 1 88  2.500 Tonnen und mehr bis weniger als 5.000 Tonnen 2.2 8740 s. Anlage
+1 2 1  5.000 Tonnen und mehr 2.5 8750 s. Anlage
+9.14 Anlagen, die der Lagerung von Ammoniak dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 3 Tonnen 2.1 8733
+2 2 1  3 Tonnen und mehr bis weniger als 30 Tonnen 2.5 8750 s. Anlage
+1 2 1  30 Tonnen und mehr 2.5 8750 s. Anlage
+9.15 Anlagen, die der Lagerung von Phosgen dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 0,075 Tonnen 2.1 8733
+2 --- ---  0,075 Tonnen und mehr bis weniger als 0,75 Tonnen 2.3 8730 s. Anlage
+1 2 1  0,75 Tonnen und mehr 2.5 8750 s. Anlage
+9.16 Anlagen, die der Lagerung von Schwefelwasserstoff dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 1 89  5 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.17 Anlagen, die der Lagerung von Fluorwasserstoff dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 50 Tonnen 2.3 8730 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.18 Anlagen, die der Lagerung von Cyanwasserstoffdienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+1 2 1  20 Tonnen und mehr 2.5 8750 s. Anlage
+9.19 Anlagen, die der Lagerung von Schwefelkohlenstoff dienen, mit einem Fassungsvermögen von
+
+
+--- PAGE 32 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+130
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+--- --- ---  weniger als 20 Tonnen 2.1 8733
+2 1 89  20 Tonnen und mehr bis weniger als 200 Tonnen 2.2 8740 s. Anlage
+1 2 1  200 Tonnen und mehr 2.5 8750 s. Anlage
+9.20 Anlagen, die der Lagerung von Brom dienen, mit einem Fassungsvermögen von
+---  weniger als 20 Tonnen 2.1 8733
+2 1 89  20 Tonnen und mehr bis weniger als 100 Tonnen 2.2 8740 s. Anlage
+2 2 1  100 Tonnen und mehr bis weniger als 200 Tonnen 2.5 8750 s. Anlage
+1 2 1  200 Tonnen und mehr 2.5 8750 s. Anlage
+9.21 Anlagen, die der Lagerung von Acetylen (Ethin) dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+2 1 89  20 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.22 Anlagen, die der Lagerung von Wasserstoff dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 3 Tonnen 2.1 8733
+2 --- ---  3 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+2 1 89  20 Tonnen und mehr bis weniger als 30 Tonnen 2.2 8740 s. Anlage
+1 1 89  30 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.23 Anlagen, die der Lagerung von Ethylenoxid dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+2 1 89  20 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.24 Anlagen, die der Lagerung von Propylenoxid dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+2 1 89  20 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.25 Anlagen, die der Lagerung von Acrolein dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 20 Tonnen 2.1 8733
+2 1 89  20 Tonnen und mehr bis weniger als 200 Tonnen 2.2 8740 s. Anlage
+1 2 1  200 Tonnen und mehr 2.5 8750 s. Anlage
+9.26 Anlagen, die der Lagerung von Formaldehyd oder Paraformaldehyd (Konzentration >= 90%) die-
+nen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 50 Tonnen 2.3 8730
+
+
+--- PAGE 33 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+131
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.27 Anlagen, die der Lagerung von Brommethan dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 20 Tonnen 2.1 8733
+2 1 89  20 Tonnen und mehr bis weniger als 200 Tonnen 2.2 8740 s. Anlage
+1 2 1  200 Tonnen und mehr 2.5 8750 s. Anlage
+9.28 Anlagen, die der Lagerung von Methylisocyanat dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 0,015 Tonnen 2.1 8733
+2 --- ---  0,015 Tonnen und mehr bis weniger als 0,15 Tonnen 2.3 8730 s. Anlage
+1 2 1  0,15 Tonnen und mehr 2.5 8750 s. Anlage
+9.29 Anlagen, die der Lagerung von Tetraethylblei oder Tetramethylblei dienen, mit einem Fassungs-
+vermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+2 1 89  20 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.30 Anlagen, die der Lagerung von 1,2-Dibromethan dienen, mit einem Fassungsvermögen von
+--- --- ---  weniger als 5 Tonnen 2.1 8733
+2 --- ---  5 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+2 1 89  20 Tonnen und mehr bis weniger als 50 Tonnen 2.2 8740 s. Anlage
+1 2 1  50 Tonnen und mehr 2.5 8750 s. Anlage
+9.31 Anlagen, die der Lagerung von Chlorwasserstoff (verflüssigtes Gas) dienen, mit einem Fassungs-
+vermögen von
+--- --- ---  weniger als 20 Tonnen 2.1 8733
+2 1 89  20 Tonnen und mehr bis weniger als 200 Tonnen 2.2 8740 s. Anlage
+1 2 1  200 Tonnen und mehr 2.5 8750 s. Anlage
+9.32 Anlagen, die der Lagerung von Diphenylmethandiisocyanat (MDI) dienen, mit einem Fassungs-
+vermögen von
+--- --- ---  weniger als 20 Tonnen 2.1 8733
+2 --- ---  20 Tonnen und mehr bis weniger als 200 Tonnen 2.3 8730 s. Anlage
+1 2 1  200 Tonnen und mehr 2.5 8750 s. Anlage
+9.33 Anlagen, die der Lagerung von Toluylendiisocyanat (TDI) dienen, mit einem Fassungsvermögen
+von
+--- --- ---  weniger als 10 Tonnen 2.1 8733
+2 --- ---  10 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+2 1 89  20 Tonnen und mehr bis weniger als 100 Tonnen 2.2 8740 s. Anlage
+1 2 1  100 Tonnen und mehr 2.5 8750 s. Anlage
+
+
+--- PAGE 34 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+132
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+9.34 Anlagen, die der Lagerung sehr giftiger Stoffe und Zubereitungen dienen, mit einem Fassungs-
+vermögen von
+--- --- ---  weniger als 2 Tonnen 2.1 8733
+2 --- ---  2 Tonnen und mehr bis weniger als 20 Tonnen 2.3 8730 s. Anlage
+1 2 1  20 Tonnen und mehr 2.5 8750 s. Anlage
+9.35 Anlagen, die der Lagerung von,
+a) sehr giftigen Stoffen oder Zubereitungen dienen, siehe 9.34
+b) giftigen, brandfördernden oder explosionsgefährlichen Stoffen oder Zubereitungen dienen,
+mit einem Fassungsvermögen von
+--- --- ---  weniger als 10 Tonnen 2.1 8733
+2 2 1  10 Tonnen und mehr bis weniger als 200 Tonnen 2.5 8750 s. Anlage
+1 2 1  200 Tonnen und mehr 2.5 8750 s. Anlage
+9.36 Anlagen zur Lagerung von Gülle mit einem Fassungsvermögen von
+--- --- ---  weniger als 2.500 Tonnen 2.1 8733
+1 --- ---  2.500 Tonnen und mehr 2.3 8730 s. Anlage
+9.37 Anlagen, die der Lagerung von
+--- --- ---  weniger als 25.000 Tonnen chemischen Erzeugnissen 2.1 8733
+1 --- ---  25.000 Tonnen chemischen Erzeugnissen und mehr 2.3 8730 s. Anlage
+dienen
+10. Sonstige
+10.1 1 a 1 90 2.2 0581 Anfrage
+2 1
+a) Anlagen zur Herstellung, Bearbeitung oder Verarbeitung von explosionsgefährlichen oder
+explosionsfähigen Stoffen im Sinne des Sprengstoffgesetzes, die zur Verwendung als Spreng-
+stoffe, Zündstoffe, Treibstoffe, pyrotechnische Sätze oder zur Herstellung dieser Stoffe be-
+stimmt sind; hierzu gehören auch die Anlagen zum Laden, Entladen oder Delaborieren von
+Munition oder sonstigen Sprengkörpern, ausgenommen Anlagen im handwerklichen Umfang
+und zur Herstellung von Zündhölzern sowie ostsbewegliche Mischladegeräte
+2.5 0580 Anfrage
+b) Anlagen zur Wiedergewinnung oder Vernichtung von explosionsgefährlichen oder explosions-
+fähigen Stoffen im Sinne des Sprengstoffgesetzes mit einer Leistung je Jahr von
+2 1 90  weniger als 10 Tonnen Einsatzmaterialien 2.2 0581 Anfrage
+2 1 2.5 0580 Anfrage
+1 b 1 90  10 Tonnen Einsatzmaterialien und mehr 2.2 0581 Anfrage
+2 1 2.5 0580 Anfrage
+10.2 2 1 91 Anlagen zur Herstellung von Zellhorn 2.2 0581 5.901,00 €
+10.3 2 1
+2
+92
+3
+Anlagen zur Herstellung von Zusatzstoffen zu Lacken und Druckfarben auf der Basis von Cellulo-
+senitrat, dessen Stickstoffgehalt bis zu 12,6 vom Hundert beträgt
+2.5 0580 Anfrage
+10.4 2 1 93 Anlagen zum Schmelzen oder Destillieren von Naturasphalt 2.2 0581 5.901,00 €
+10.5 2 1 94 Pechsiedereien 2.2 0581 5.901,00 €
+
+
+--- PAGE 35 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+133
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+10.6 2 --- --- Anlagen zur Reinigung oder zum Aufbereiten von Sulfatterpentinöl oder Tallöl 2.3 0582 849,50 €
+10.7 Anlagen zum Vulkanisieren von Natur- oder Synthesekautschuk unter Verwendung von Schwefel
+oder Schwefelverbindungen, mit einem Einsatz je Stunde von
+--- ---  weniger als 50 kg Kautschuk 2.7 ---
+2 ---  50 kg Kautschuk und mehr bis weniger als 25 Tonnen Kautschuk 2.3 0582 849,50 €
+ausgenommen Anlagen, in denen ausschließlich vorvulkanisierter
+Kautschuk eingesetzt wird
+1 ---  25 Tonnen und mehr 2.3 0582 1.062,60 €
+10.8 Anlagen zur Herstellung von Bautenschutz-, Reinigungs-, Holzschutz- oder Klebemitteln, ausge-
+nommen Anlagen, in denen diese Mittel ausschließlich unter Verwendung von Wasser als Verdün-
+nungsmittel hergestellt werden, mit einer Leistung je Tag von
+--- --- ---  weniger als 1 Tonne 2.7 ---
+2 1 95  1 Tonne und mehr 2.2 0581 5.901,00 €
+10.9 2 1 96 Anlagen zur Herstellung von Holzschutzmitteln unter Verwendung von halogenierten aromati-
+schen Kohlenwasserstoffen
+2.2 0581 5.901,00 €
+10.10 Anlagen zum
+--- a) Bleichen von Fasern oder Textilien unter Verwendung von Chlor oder Chlorverbindungen einer
+Verarbeitungsleistung je Tag von
+2 a ---  weniger als 10 Tonnen Fasern oder Textilien 2.3 0582 Tarif #2.1
+1 ---  10 Tonnen Fasern oder Textilien und mehr 2.3 0582 Tarif #2.1
+b) Färben von Fasern oder Textilien unter Verwendung von Färbebeschleunigern einschließlich
+der Spannrahmenanlagen mit einer Verarbeitungsleistung je Tag von
+--- ---  weniger als 2 Tonnen Fasern oder Textilien 2.1 8733
+2 b ---  2 Tonnen Fasern oder Textilien und mehr bis weniger als 10 Tonnen 2.3 0582 Tarif #2.1
+1 ---  10 Tonnen Fasern oder Textilien und mehr 2.3 0582 Tarif #2.1
+10.15 Prüfstände für oder mit
+--- a) Verbrennungsmotoren mit einer Feuerungswärmeleistung von
+---  weniger als 300 Kilowatt 2.7 ---
+2 a ---  300 Kilowatt und mehr bis weniger als 1 Megawatt 2.3 0582 633,20 €
+2 a ---  1 MW und mehr bis weniger als 5 Megawatt 2.3 0582 849,50 €
+2 a ---  5 MW und mehr bis weniger als 10 Megawatt 2.3 0582 1.062,60 €
+ausgenommen Rollenprüfstände, die in geschlossenen Räumen be-
+trieben werden, und Anlagen, in denen mit Katalysator oder Diesel-
+rußfilter ausgerüstete Serienmotoren geprüft werden
+---
+1 a ---  10 Megawatt und mehr 2.3 0582 1.213,30 €
+ausgenommen Rollenprüfstände
+b) Gasturbinen oder Triebwerken mit einer Feuerungswärmeleistung von
+2 b ---  weniger als 10 Megawatt 2.3 0582 633,20 €
+2 b ---  10 Megawatt bis weniger als 50 Megawatt 2.3 0582 849,50 €
+
+
+--- PAGE 36 ---
+
+4. BImschVO UHG
+Ziffer Spalte Anh. Ziff.
+Risiko-
+bau-
+stein
+Wagnis-
+nummer Prämie
+134
+G
+HDI Gerling Firmen und Privat AG - Stand 09.2007
+Umwelthaftpflicht-Versicherung
+2 b ---  50 Megawatt bis weniger als 100 Megawatt 2.3 0582 1.062,60 €
+1 a ---  100 Megawatt und mehr 2.3 0582 1.213,30 €
+10.16 2 Prüfstände für oder mit Luftschrauben 2.3 0582 849,50 €
+10.17 Anlagen, die der Übung oder Ausübung des Motorsports dienen und zwar an
+--- --- ---  weniger als 5 Tagen im Jahr 2.7 ---
+2 --- ---  5 Tagen und mehr im Jahr 2.3 0582 849,50 €
+10.18 2 --- --- Schießstände für Handfeuerwaffen, ausgenommen solche in geschlossenen Räumen, und Schieß-
+plätze
+2.3 0582 849,50 €
+10.20 2 --- --- Anlagen zur Reinigung von Werkzeugen, Vorrichtungen oder sonstigen metallischen Gegenstän-
+den durch thermische Verfahren
+2.3 0582 849,50 €
+10.21 2 --- --- Anlagen zur Innenreinigung von Eisenbahnkesselwagen, Straßentankfahrzeugen, Tankschiffen
+oder Tankcontainern sowie Anlagen zur automatischen Reinigung von Fässern einschließlich zu-
+gehöriger Aufarbeitungsanlagen, soweit die Behälter von organischen Stoffen gereinigt werden,
+2.3 0582 849,50 €
+--- --- --- ausgenommen Anlagen, in denen Behälter ausschließlich von Nahrungs-, Genuss- oder Futtermit-
+teln gereinigt werden
+2.1 8731
+10.22 Begasungs- und Sterilisationsanlagen, soweit sehr giftige Stoffe oder Zubereitungen eingesetzt
+werden, bei einem Rauminhalt der Begasungs- und Sterilisationskammer von
+--- ---  weniger als 1 m³ 2.7 ---
+2 ---  1 m³ und mehr und mehr bis weniger als 5 m³ 2.3 0582 633,20 €
+2 ---  5 m³ und mehr und mehr bis weniger als 10 m³ 2.3 0582 849,50 €
+2 ---  10 m³ und mehr 2.3 0582 1.062,60 €
+10.23 Anlagen zur Textilveredlung durch Sengen, Thermofixieren, Thermosolieren, Beschichten, Impräg-
+nieren oder Appretieren, einschließlich der zugehörigen Trocknungsanlagen mit einer Behand-
+lung je Stund von
+--- --- ---  weniger als 500 m² Textilien 2.1 8732
+2 --- ---  500 m² Textilien und mehr 2.3 0582 849,50 €
+10.25 Kälteanlagen mit einem Gesamtinhalt an Kältemittel Ammoniak von
+--- --- ---  weniger als 3 Tonnen 2.1 8732
+2 --- ---  3 Tonnen und mehr 2.2 0581 5.901,00 €
+Bei den Kälteanlagen handelt es sich um HBV- und nicht um Lageranlagen. Diese ist im Anhang VII
+Teil 3 Spalte 6 der Stoffliste in Teil 1 der Störfallverordnung (12. BImSchV) genannt.
