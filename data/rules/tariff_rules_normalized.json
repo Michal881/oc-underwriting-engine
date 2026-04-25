@@ -1,0 +1,153 @@
+{
+  "source": "data/rules/tariff_rules_raw.json",
+  "status": "normalized_unverified",
+  "sections": [
+    {
+      "code": "A",
+      "title_de": "Betriebshaftpflichtversicherung produzierende Unternehmen",
+      "title_pl": "Ubezpieczenie OC działalności dla przedsiębiorstw produkcyjnych",
+      "rating_basis": "Gesamtumsatz (ohne Mehrwertsteuer), im Versicherungsjahr auf volle Tausend Euro aufgerundet (US), inkl. Umsatz mitversicherter Unternehmen (konsolidierter Umsatz)",
+      "rows": [
+        {
+          "activity_de": "Kunststoffherstellung (Primärform)",
+          "activity_pl": null,
+          "risk_class": "RK2",
+          "base_rate_per_mille": 2.35,
+          "minimum_premium": 1150,
+          "deductible": null,
+          "limits": [],
+          "source_reference": "PAGE 4, Tabelle Chemie",
+          "notes": [
+            "RK Rückruf ist separat extrahiert und nicht in diesem normalisierten Basis-Prämiensatz enthalten."
+          ]
+        },
+        {
+          "activity_de": "Kunststoffteileherstellung für Bauprodukte",
+          "activity_pl": null,
+          "risk_class": "RK2",
+          "base_rate_per_mille": 1.11,
+          "minimum_premium": 530,
+          "deductible": null,
+          "limits": [],
+          "source_reference": "PAGE 4, Tabelle Chemie",
+          "notes": [
+            "RK Rückruf ist separat extrahiert und nicht in diesem normalisierten Basis-Prämiensatz enthalten."
+          ]
+        },
+        {
+          "activity_de": "Kunststoffteileherstellung für Lagerbehälter, Tanks und Silos",
+          "activity_pl": null,
+          "risk_class": "RK2",
+          "base_rate_per_mille": 2.34,
+          "minimum_premium": 1145,
+          "deductible": null,
+          "limits": [],
+          "source_reference": "PAGE 4, Tabelle Chemie",
+          "notes": [
+            "RK Rückruf ist separat extrahiert und nicht in diesem normalisierten Basis-Prämiensatz enthalten."
+          ]
+        }
+      ]
+    }
+  ],
+  "global_limits": [
+    {
+      "type_de": "Personen-, Sach- und Vermögensschäden",
+      "amount_per_claim_eur": 3000000,
+      "annual_aggregate_eur": 6000000,
+      "source_reference": "A.limits.main_limit"
+    },
+    {
+      "type_de": "sonstige Tätigkeitsschäden",
+      "amount_per_claim_eur": 50000,
+      "annual_aggregate_eur": null,
+      "annual_maximization": "2-fach",
+      "source_reference": "A.limits.sublimits_per_claim_eur"
+    },
+    {
+      "type_de": "Mietsachschäden an Gebäuden und Räumlichkeiten durch Brand, Explosion, Leitungs- und Abwasser",
+      "amount_per_claim_eur": 500000,
+      "annual_aggregate_eur": null,
+      "annual_maximization": "2-fach",
+      "source_reference": "A.limits.sublimits_per_claim_eur"
+    },
+    {
+      "type_de": "sonstige Mietsachschäden",
+      "amount_per_claim_eur": 50000,
+      "annual_aggregate_eur": null,
+      "annual_maximization": "2-fach",
+      "source_reference": "A.limits.sublimits_per_claim_eur"
+    },
+    {
+      "type_de": "sonstige Vermögensschäden",
+      "amount_per_claim_eur": 500000,
+      "annual_aggregate_eur": null,
+      "annual_maximization": "2-fach",
+      "source_reference": "A.limits.sublimits_per_claim_eur"
+    },
+    {
+      "type_de": "Schäden durch Nutzung der Internettechnologie",
+      "amount_per_claim_eur": 500000,
+      "annual_aggregate_eur": null,
+      "annual_maximization": "2-fach",
+      "source_reference": "A.limits.sublimits_per_claim_eur"
+    },
+    {
+      "type_de": "Vermögensschäden aus Rechtsdienstleistungen",
+      "amount_per_claim_eur": 100000,
+      "annual_aggregate_eur": null,
+      "annual_maximization": "2-fach",
+      "source_reference": "A.limits.sublimits_per_claim_eur"
+    }
+  ],
+  "global_deductibles": [
+    {
+      "type_de": "Sach- und Vermögensschäden",
+      "deductible_eur": 500,
+      "deductible_percent": null,
+      "min_eur": null,
+      "max_eur": null,
+      "source_reference": "A.deductibles"
+    },
+    {
+      "type_de": "Produkthaftpflicht Sach- und Vermögensschäden",
+      "deductible_eur": null,
+      "deductible_percent": 10,
+      "min_eur": 500,
+      "max_eur": 10000,
+      "source_reference": "A.deductibles"
+    },
+    {
+      "type_de": "Umwelthaftpflichtrisiko",
+      "deductible_eur": null,
+      "deductible_percent": 10,
+      "min_eur": 500,
+      "max_eur": 5000,
+      "source_reference": "A.deductibles"
+    }
+  ],
+  "uncertain_items": [
+    {
+      "item": "Nur Teil A und ein Ausschnitt der Prämientabellen liegen im verfügbaren Text vor; vollständige Tabellen/weitere Seiten fehlen.",
+      "reason": "Quelltextauszug endet im Bereich 'Chemie' und enthält nicht den gesamten Tarifinhalt."
+    },
+    {
+      "item": "Teilweise Zuordnung, ob Werte als Prämien pro mille auf Umsatz oder andere Basis gelten, wurde aus Tabellenkontext abgeleitet.",
+      "reason": "Spaltenkopf 'Prämiensatz' vorhanden, aber methodische Detaildefinition im Ausschnitt unvollständig."
+    },
+    {
+      "item": "Explizite Decline-Regeln sind im verfügbaren Textauszug nicht genannt.",
+      "reason": "Text enthält primär Anfrage-/Referral-Hinweise und Tarifparameter."
+    },
+    {
+      "item": "Nur klar numerisch extrahierte Beispiel-Prämienzeilen wurden normalisiert.",
+      "reason": "Der verfügbare Tarifausschnitt enthält keine vollständige Gesamt-Prämientabelle für alle Aktivitäten.",
+      "source_reference": "A.base_rates.sample_tariff_table_rows"
+    },
+    {
+      "item": "Polnische Aktivitätsbezeichnungen wurden nicht ergänzt.",
+      "reason": "Im Quellmaterial liegen für die konkreten Aktivitätszeilen keine eindeutigen activity_pl-Werte vor.",
+      "source_reference": "A.industries_activities_risk_classes"
+    }
+  ]
+}
