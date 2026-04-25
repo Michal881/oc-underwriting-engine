@@ -1,55 +1,29 @@
-// Activity dropdown controller
-// Fixes:
-// 1) always renders real <option> nodes
-// 2) keeps <select> enabled only when data exists
-// 3) resets stale selected/form/question state when activity type changes
-
 (() => {
   const activitySelect = document.getElementById("activity");
   const activityTypeSelect = document.getElementById("activityType");
   const underwritingForm = document.getElementById("underwritingForm");
   const activityQuestions = document.getElementById("activityQuestions");
 
-  if (!activitySelect) return;
+  if (!activitySelect || !activityTypeSelect) return;
 
   const state = {
-    activityType: activityTypeSelect?.value || "",
+    selectedCategory: "",
     selectedActivity: "",
-    activities: [],
+    allActivities: [],
   };
 
-  function resetActivityDropdown(placeholder = "Select an activity") {
-    state.selectedActivity = "";
-    state.activities = [];
-
-    activitySelect.replaceChildren();
+  function resetSelect(select, placeholder) {
+    select.replaceChildren();
 
     const option = document.createElement("option");
     option.value = "";
     option.textContent = placeholder;
     option.disabled = true;
     option.selected = true;
-    activitySelect.appendChild(option);
+    select.appendChild(option);
 
-    activitySelect.value = "";
-    activitySelect.disabled = true;
-  }
-
-  function resetActivityDependentUI() {
-    if (activityQuestions) {
-      activityQuestions.replaceChildren();
-    }
-
-    if (underwritingForm) {
-      const savedType = activityTypeSelect?.value || "";
-      underwritingForm.reset();
-
-      if (activityTypeSelect) {
-        activityTypeSelect.value = savedType;
-      }
-
-      activitySelect.value = "";
-    }
+    select.value = "";
+    select.disabled = true;
   }
 
   function normalizeActivities(payload) {
@@ -57,29 +31,62 @@
 
     return payload
       .map((item) => {
-        if (typeof item === "string") {
-          return { value: item, label: item };
-        }
+        if (!item || typeof item !== "object") return null;
 
-        if (item && typeof item === "object") {
-          const value = String(item.value ?? item.id ?? item.name ?? "").trim();
-          const label = String(item.label ?? item.name ?? item.value ?? "").trim();
-          if (!value || !label) return null;
-          return { value, label };
-        }
+        const category = String(item.category || "").trim();
+        const code = String(item.code || item.id || "").trim();
+        const labelPl = String(item.label_pl || "").trim();
+        const labelSource = String(item.label_source || "").trim();
+        const label = labelPl || labelSource;
 
-        return null;
+        if (!category || !code || !label) return null;
+
+        return {
+          id: String(item.id || `${category}:${code}`),
+          category,
+          code,
+          label,
+          label_pl: labelPl,
+          label_source: labelSource,
+          tariff_section: String(item.tariff_section || "").trim(),
+        };
       })
       .filter(Boolean);
   }
 
-  function renderActivityOptions(activities, activityType = "") {
-    const noActivitiesPlaceholder = activityType
-      ? "No activities available for this type"
-      : "No activities available";
+  function getCategories(activities) {
+    return [...new Set(activities.map((item) => item.category))].sort((a, b) =>
+      a.localeCompare(b, "pl")
+    );
+  }
 
-    resetActivityDropdown(
-      activities.length ? "Select an activity" : noActivitiesPlaceholder
+  function renderCategories(categories) {
+    resetSelect(
+      activityTypeSelect,
+      categories.length ? "Select category" : "No categories available"
+    );
+
+    if (!categories.length) return;
+
+    const fragment = document.createDocumentFragment();
+
+    for (const category of categories) {
+      const option = document.createElement("option");
+      option.value = category;
+      option.textContent = category;
+      fragment.appendChild(option);
+    }
+
+    activityTypeSelect.appendChild(fragment);
+    activityTypeSelect.disabled = false;
+  }
+
+  function renderActivities(category) {
+    const activities = state.allActivities.filter((item) => item.category === category);
+
+    resetSelect(
+      activitySelect,
+      activities.length ? "Select an activity" : "No activities for this category"
     );
 
     if (!activities.length) return;
@@ -88,7 +95,7 @@
 
     for (const activity of activities) {
       const option = document.createElement("option");
-      option.value = activity.value;
+      option.value = activity.id;
       option.textContent = activity.label;
       fragment.appendChild(option);
     }
@@ -97,14 +104,22 @@
     activitySelect.disabled = false;
   }
 
-  async function loadActivities(activityType = "") {
-    resetActivityDropdown("Loading activities...");
+  function resetActivityDependentUI() {
+    state.selectedActivity = "";
 
-    const query = activityType
-      ? `?type=${encodeURIComponent(activityType)}`
-      : "";
+    if (activityQuestions) {
+      activityQuestions.replaceChildren();
+    }
 
-    const response = await fetch(`/activities${query}`, {
+    if (underwritingForm) {
+      const savedCategory = state.selectedCategory;
+      underwritingForm.reset();
+      activityTypeSelect.value = savedCategory;
+    }
+  }
+
+  async function loadActivities() {
+    const response = await fetch("/activities", {
       headers: { Accept: "application/json" },
     });
 
@@ -113,33 +128,27 @@
     }
 
     const payload = await response.json();
-    const list = normalizeActivities(payload);
+    state.allActivities = normalizeActivities(payload);
 
-    state.activities = list;
-    renderActivityOptions(list, activityType);
+    const categories = getCategories(state.allActivities);
+    renderCategories(categories);
+
+    resetSelect(activitySelect, "Select category first");
   }
+
+  activityTypeSelect.addEventListener("change", (event) => {
+    state.selectedCategory = event.target.value;
+    resetActivityDependentUI();
+    renderActivities(state.selectedCategory);
+  });
 
   activitySelect.addEventListener("change", (event) => {
     state.selectedActivity = event.target.value;
   });
 
-  if (activityTypeSelect) {
-    activityTypeSelect.addEventListener("change", async (event) => {
-      state.activityType = event.target.value;
-      resetActivityDependentUI();
-      resetActivityDropdown();
-
-      try {
-        await loadActivities(state.activityType);
-      } catch (error) {
-        console.error(error);
-        resetActivityDropdown("Unable to load activities");
-      }
-    });
-  }
-
-  loadActivities(state.activityType).catch((error) => {
+  loadActivities().catch((error) => {
     console.error(error);
-    resetActivityDropdown("Unable to load activities");
+    resetSelect(activityTypeSelect, "Unable to load categories");
+    resetSelect(activitySelect, "Unable to load activities");
   });
 })();
