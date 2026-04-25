@@ -23,11 +23,11 @@ app.get("/api/section-a/activities", (_req, res) => {
   });
 });
 
-app.get("/api/section-a/questions", (_req, res) => {
+app.get("/api/section-a/questions", (req, res) => {
   res.json({
     section_code: "A",
     category: "Produkcja",
-    ...getSectionAQuestions(),
+    ...getSectionAQuestions(req.query.activity_id),
   });
 });
 
@@ -37,7 +37,7 @@ app.post("/api/section-a/quote", (req, res) => {
     section_code: "A",
     category: "Produkcja",
     activities: getSectionAActivities(),
-    questions: getSectionAQuestions(),
+    questions: getSectionAQuestions((req.body || {}).activity_id),
     ...quote,
   });
 });
