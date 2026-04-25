@@ -98,7 +98,8 @@
           "risk_class_rueckruf": "M",
           "source_refs": [
             "PAGE 4, Tabelle Chemie"
-          ]
+          ],
+          "activity_pl": "Produkcja tworzyw sztucznych w formach podstawowych"
         },
         {
           "activity_de": "Kunststoffteileherstellung für Bauprodukte",
@@ -109,7 +110,8 @@
           "risk_class_rueckruf": "S1",
           "source_refs": [
             "PAGE 4, Tabelle Chemie"
-          ]
+          ],
+          "activity_pl": "Produkcja elementów z tworzyw sztucznych dla budownictwa"
         },
         {
           "activity_de": "Kunststoffteileherstellung für Lagerbehälter, Tanks und Silos",
@@ -120,7 +122,8 @@
           "risk_class_rueckruf": "S1",
           "source_refs": [
             "PAGE 4, Tabelle Chemie"
-          ]
+          ],
+          "activity_pl": "Produkcja zbiorników, tanków i silosów z tworzyw sztucznych"
         }
       ],
       "base_rates": {
