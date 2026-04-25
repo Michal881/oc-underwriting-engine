@@ -1,0 +1,13 @@
+{
+  "name": "oc-underwriting-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local runner for underwriting activity selection UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

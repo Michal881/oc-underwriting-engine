@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OC Underwriting Engine</title>
+  </head>
+  <body>
+    <main>
+      <h1>Underwriting Activity Selector</h1>
+
+      <form id="underwritingForm">
+        <label for="activityType">Activity type</label>
+        <select id="activityType" name="activityType">
+          <option value="">All activity types</option>
+          <option value="A">A</option>
+          <option value="B">B</option>
+          <option value="C">C</option>
+          <option value="D">D</option>
+          <option value="E">E</option>
+          <option value="F">F</option>
+          <option value="G">G</option>
+          <option value="H">H</option>
+          <option value="I">I</option>
+        </select>
+
+        <label for="activity">Activity</label>
+        <select id="activity" name="activity" disabled>
+          <option value="" selected disabled>Loading activities...</option>
+        </select>
+
+        <label for="notes">Notes</label>
+        <input id="notes" name="notes" type="text" placeholder="Optional notes" />
+      </form>
+
+      <section id="activityQuestions" aria-live="polite"></section>
+    </main>
+
+    <script src="/js/activityDropdown.js"></script>
+  </body>
+</html>

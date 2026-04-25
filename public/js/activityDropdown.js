@@ -2,11 +2,13 @@
 // Fixes:
 // 1) always renders real <option> nodes
 // 2) keeps <select> enabled only when data exists
-// 3) resets stale selected state when activity type changes
+// 3) resets stale selected/form/question state when activity type changes
 
 (() => {
   const activitySelect = document.getElementById("activity");
   const activityTypeSelect = document.getElementById("activityType");
+  const underwritingForm = document.getElementById("underwritingForm");
+  const activityQuestions = document.getElementById("activityQuestions");
 
   if (!activitySelect) return;
 
@@ -31,6 +33,23 @@
 
     activitySelect.value = "";
     activitySelect.disabled = true;
+  }
+
+  function resetActivityDependentUI() {
+    if (activityQuestions) {
+      activityQuestions.replaceChildren();
+    }
+
+    if (underwritingForm) {
+      const savedType = activityTypeSelect?.value || "";
+      underwritingForm.reset();
+
+      if (activityTypeSelect) {
+        activityTypeSelect.value = savedType;
+      }
+
+      activitySelect.value = "";
+    }
   }
 
   function normalizeActivities(payload) {
@@ -103,6 +122,7 @@
   if (activityTypeSelect) {
     activityTypeSelect.addEventListener("change", async (event) => {
       state.activityType = event.target.value;
+      resetActivityDependentUI();
       resetActivityDropdown();
 
       try {
