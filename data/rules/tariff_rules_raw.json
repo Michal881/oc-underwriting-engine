@@ -1,9 +1,373 @@
 {
   "source": "data/extracted/all_tariff_text.txt",
   "language": "de",
-  "extraction_status": "raw_unverified",
-  "tariff_sections": [],
+  "extraction_status": "partially_extracted_from_available_text",
+  "notes": {
+    "de": "Extraktion basiert auf dem aktuell verfügbaren Textauszug (Seiten 1-14, inkl. Inhaltsübersicht und Teil A). Nicht alle Tarifteile/B-Seiten liegen im Auszug vollständig vor.",
+    "pl": "Ekstrakcja oparta na aktualnie dostępnym fragmencie tekstu (strony 1-14, w tym spis treści i część A). Nie wszystkie części taryfy są dostępne w całości."
+  },
+  "tariff_sections": [
+    {
+      "section_id": "general_toc",
+      "title_de": "Tarif Haftpflichtversicherung – Inhaltsübersicht",
+      "title_pl": "Taryfa ubezpieczenia OC – spis treści",
+      "source_refs": [
+        "PAGE 1 (Inhaltsübersicht)"
+      ],
+      "subsections": [
+        {
+          "code": "A",
+          "title_de": "Haftpflichtversicherung für produzierende Betriebe",
+          "title_pl": "Ubezpieczenie OC dla przedsiębiorstw produkcyjnych",
+          "page": 11
+        },
+        {
+          "code": "B",
+          "title_de": "Haftpflichtversicherung für das Druckgewerbe",
+          "title_pl": "Ubezpieczenie OC dla branży poligraficznej",
+          "page": 23
+        },
+        {
+          "code": "C",
+          "title_de": "Haftpflichtversicherung für Hard- und Softwareunternehmen",
+          "title_pl": "Ubezpieczenie OC dla firm hardware/software",
+          "page": 27
+        },
+        {
+          "code": "D",
+          "title_de": "Haftpflichtversicherung für Kfz-Handel- und -Handwerksbetriebe",
+          "title_pl": "Ubezpieczenie OC dla handlu i rzemiosła motoryzacyjnego",
+          "page": 35
+        },
+        {
+          "code": "E",
+          "title_de": "Haftpflichtversicherung für das Bau- und Baunebengewerbe",
+          "title_pl": "Ubezpieczenie OC dla branży budowlanej i pokrewnych",
+          "page": 39
+        },
+        {
+          "code": "F",
+          "title_de": "Haftpflichtversicherung für Handels-, Handwerks- und sonstige Betriebe",
+          "title_pl": "Ubezpieczenie OC dla handlu, rzemiosła i pozostałych działalności",
+          "page": 49
+        },
+        {
+          "code": "G",
+          "title_de": "Umwelt-Haftpflichtversicherung",
+          "title_pl": "Środowiskowe ubezpieczenie OC",
+          "page": 93
+        },
+        {
+          "code": "H",
+          "title_de": "Umweltschadens-Versicherung",
+          "title_pl": "Ubezpieczenie szkód środowiskowych",
+          "page": 145
+        },
+        {
+          "code": "I",
+          "title_de": "Haftpflichtversicherung für landwirtschaftliche Betriebe",
+          "title_pl": "Ubezpieczenie OC dla gospodarstw rolnych",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "section_id": "A",
+      "title_de": "Betriebshaftpflichtversicherung produzierende Unternehmen",
+      "title_pl": "Ubezpieczenie OC działalności dla przedsiębiorstw produkcyjnych",
+      "source_refs": [
+        "PAGE 1-4 (Teil A, Stand 10.2010)"
+      ],
+      "conditions": [
+        "Haftpflichtversicherung PRO (H 2100)",
+        "Allgemeine Versicherungsbedingungen für die Haftpflichtversicherung (AHB, H 600)",
+        "Besondere Bedingungen und Risikobeschreibungen zur Privat-Haftpflichtversicherung (H 8901) – falls gesondert beantragt"
+      ],
+      "industries_activities_risk_classes": [
+        {
+          "industry_de": "Produzierende Unternehmen",
+          "industry_pl": "Przedsiębiorstwa produkcyjne",
+          "risk_class_context": "Tariftabelle enthält Spalten RK Erw. ProdH / RK Rückruf"
+        },
+        {
+          "activity_de": "Kunststoffherstellung (Primärform)",
+          "wz_code": "24160",
+          "wagnis_nr": "1053",
+          "risiko_nr": "10731",
+          "risk_class_erw_prodh": "RK2",
+          "risk_class_rueckruf": "M",
+          "source_refs": [
+            "PAGE 4, Tabelle Chemie"
+          ]
+        },
+        {
+          "activity_de": "Kunststoffteileherstellung für Bauprodukte",
+          "wz_code": "25230",
+          "wagnis_nr": "4556",
+          "risiko_nr": "10729",
+          "risk_class_erw_prodh": "RK2",
+          "risk_class_rueckruf": "S1",
+          "source_refs": [
+            "PAGE 4, Tabelle Chemie"
+          ]
+        },
+        {
+          "activity_de": "Kunststoffteileherstellung für Lagerbehälter, Tanks und Silos",
+          "wz_code": "25220",
+          "wagnis_nr": "4557",
+          "risiko_nr": "10733",
+          "risk_class_erw_prodh": "RK2",
+          "risk_class_rueckruf": "S1",
+          "source_refs": [
+            "PAGE 4, Tabelle Chemie"
+          ]
+        }
+      ],
+      "base_rates": {
+        "premium_rating_basis_de": "Gesamtumsatz (ohne Mehrwertsteuer), im Versicherungsjahr auf volle Tausend Euro aufgerundet (US), inkl. Umsatz mitversicherter Unternehmen (konsolidierter Umsatz)",
+        "premium_rating_basis_pl": "Łączny obrót (bez VAT), zaokrąglany w roku ubezpieczeniowym do pełnych tysięcy EUR, w tym obrót współubezpieczonych spółek (obrót skonsolidowany)",
+        "base_risk_profile_turnover_eur": 500000,
+        "absolute_minimum_premium_eur": 375,
+        "degression_discounts_by_turnover": [
+          {
+            "from_turnover_eur": 1000000,
+            "discount_percent": 5
+          },
+          {
+            "from_turnover_eur": 2500000,
+            "discount_percent": 10
+          },
+          {
+            "from_turnover_eur": 4000000,
+            "discount_percent": 20
+          }
+        ],
+        "sample_tariff_table_rows": [
+          {
+            "activity_de": "Kunststoffherstellung (Primärform)",
+            "praemiensatz_per_mille": 2.35,
+            "mindestpraemie_eur": 1150
+          },
+          {
+            "activity_de": "Kunststoffteileherstellung für Bauprodukte",
+            "praemiensatz_per_mille": 1.11,
+            "mindestpraemie_eur": 530
+          },
+          {
+            "activity_de": "Kunststoffteileherstellung für Lagerbehälter, Tanks und Silos",
+            "praemiensatz_per_mille": 2.34,
+            "mindestpraemie_eur": 1145
+          }
+        ]
+      },
+      "rating_bases": [
+        {
+          "de": "Gesamtumsatz (US) als Tarifierungsbasis",
+          "pl": "Łączny obrót (US) jako podstawa taryfikacji"
+        },
+        {
+          "de": "Bei Tätigkeitsschäden-Zuschlägen: anteilige Lohn- und Gehaltssumme",
+          "pl": "Przy dopłatach za szkody z tytułu wykonywanych prac: proporcjonalna suma wynagrodzeń"
+        },
+        {
+          "de": "Bei Kfz-Zuschlägen: Anzahl Fahrzeuge auf Betriebsgrundstücken",
+          "pl": "Przy dopłatach za pojazdy: liczba pojazdów na terenie zakładu"
+        }
+      ],
+      "limits": {
+        "main_limit": {
+          "per_claim_eur": 3000000,
+          "annual_aggregate_eur": 6000000,
+          "scope": "Personen-, Sach- und Vermögensschäden"
+        },
+        "sublimits_per_claim_eur": [
+          {
+            "type_de": "sonstige Tätigkeitsschäden",
+            "amount_eur": 50000,
+            "annual_maximization": "2-fach"
+          },
+          {
+            "type_de": "Mietsachschäden an Gebäuden und Räumlichkeiten durch Brand, Explosion, Leitungs- und Abwasser",
+            "amount_eur": 500000,
+            "annual_maximization": "2-fach"
+          },
+          {
+            "type_de": "sonstige Mietsachschäden",
+            "amount_eur": 50000,
+            "annual_maximization": "2-fach"
+          },
+          {
+            "type_de": "sonstige Vermögensschäden",
+            "amount_eur": 500000,
+            "annual_maximization": "2-fach"
+          },
+          {
+            "type_de": "Schäden durch Nutzung der Internettechnologie",
+            "amount_eur": 500000,
+            "annual_maximization": "2-fach"
+          },
+          {
+            "type_de": "Vermögensschäden aus Rechtsdienstleistungen",
+            "amount_eur": 100000,
+            "annual_maximization": "2-fach"
+          }
+        ],
+        "optional_limit_increase": [
+          {
+            "to_limit_eur": 5000000,
+            "annual_maximization": "2-fach",
+            "surcharge_percent": 22.5
+          }
+        ],
+        "mietsachschaeden_optional_limits": [
+          {
+            "to_limit_eur": 1000000,
+            "surcharge_eur": 200
+          },
+          {
+            "to_limit_eur": 1500000,
+            "surcharge_eur": 400
+          },
+          {
+            "to_limit_eur": 2500000,
+            "surcharge_eur": 800
+          }
+        ],
+        "taetigkeitsschaeden_optional_limits": [
+          {
+            "to_limit_eur": 100000,
+            "surcharge": "0,6 ‰ der anteiligen Lohn- und Gehaltssumme, mindestens 110,00 Euro"
+          },
+          {
+            "to_limit_eur": 250000,
+            "surcharge": "1,5 ‰ der anteiligen Lohn- und Gehaltssumme, mindestens 250,00 Euro"
+          }
+        ],
+        "umwelthaftpflicht_limit_rule": "Innerhalb der vereinbarten Hauptdeckungssumme einfach maximiert; Aufwendungen vor Eintritt des Versicherungsfalles auf 10 % dieser Deckungssumme begrenzt, ebenfalls einfach maximiert je Versicherungsjahr"
+      },
+      "deductibles": [
+        {
+          "type_de": "Sach- und Vermögensschäden",
+          "deductible_eur": 500
+        },
+        {
+          "type_de": "Produkthaftpflicht Sach- und Vermögensschäden",
+          "deductible_percent": 10,
+          "min_eur": 500,
+          "max_eur": 10000
+        },
+        {
+          "type_de": "Umwelthaftpflichtrisiko",
+          "deductible_percent": 10,
+          "min_eur": 500,
+          "max_eur": 5000
+        }
+      ],
+      "exclusions": [
+        {
+          "de": "Ausschluss gem. Ziffer 7.17 AHB: Haftpflichtansprüche wegen Schäden aus Anfeindung, Schikane, Belästigung, Ungleichbehandlung oder sonstigen Diskriminierungen",
+          "pl": "Wyłączenie zgodnie z pkt 7.17 AHB: roszczenia z tytułu szkód wynikających z wrogości, szykan, molestowania, nierównego traktowania lub innych form dyskryminacji"
+        },
+        {
+          "de": "Streichung der Begriffe Kraftfahrzeuge/Wasserfahrzeuge/Schienenfahrzeuge im Rahmen der Aus- und Einbaukostendeckung generell nicht möglich",
+          "pl": "Usunięcie pojęć pojazdy samochodowe/statki/pojazdy szynowe w ramach pokrycia kosztów demontażu i montażu zasadniczo niemożliwe"
+        }
+      ],
+      "underwriting_questions": [
+        {
+          "id": "q_foreign_subsidiaries",
+          "question_de": "Bestehen Niederlassungen/Unternehmen im Ausland?",
+          "question_pl": "Czy istnieją oddziały/przedsiębiorstwa za granicą?",
+          "source_refs": [
+            "PAGE 2: Niederlassungen/Unternehmen im Ausland – Anfrage"
+          ]
+        },
+        {
+          "id": "q_limitation_period_extension",
+          "question_de": "Wird eine Verlängerung der Verjährungsfrist bei Nacherfüllungsansprüchen über 2 Jahre hinaus benötigt?",
+          "question_pl": "Czy potrzebne jest wydłużenie terminu przedawnienia roszczeń z tytułu wykonania zastępczego powyżej 2 lat?",
+          "source_refs": [
+            "PAGE 2: Verlängerung der Verjährungsfrist ... Anfrage"
+          ]
+        },
+        {
+          "id": "q_environmental_thresholds",
+          "question_de": "Werden die genannten Mengeschwellen bei Umweltrisiken überschritten oder weitere umweltrelevante Risiken benötigt?",
+          "question_pl": "Czy przekroczono wskazane progi ilościowe ryzyk środowiskowych lub wymagane są dodatkowe ryzyka środowiskowe?",
+          "source_refs": [
+            "PAGE 3: Bei Überschreitung ... siehe Tarif G"
+          ]
+        },
+        {
+          "id": "q_vehicle_count",
+          "question_de": "Wie viele Kraftfahrzeuge werden innerhalb der Betriebsgrundstücke genutzt?",
+          "question_pl": "Ile pojazdów mechanicznych jest użytkowanych na terenie zakładu?",
+          "source_refs": [
+            "PAGE 3: Staffelzuschläge je Fahrzeug"
+          ]
+        }
+      ],
+      "conditional_questions": [
+        {
+          "condition_de": "Wenn Unternehmen mehrere Betriebsarten hat",
+          "question_de": "Welche Betriebsarten liegen vor (Prämie je Betriebsart nach Tarifstelle; höchste Mindestprämie wahren)?"
+        },
+        {
+          "condition_de": "Wenn reine Endprodukthersteller",
+          "question_de": "Kann kalkulatorische Reduktion der Tarifprämiensätze (bis zu 40 %) beantragt werden?"
+        },
+        {
+          "condition_de": "Wenn Umweltrisiko über Standardgrenzen (z.B. > 1.000 l/kg Kleingebinde, > 10.000 l Heizöltank)",
+          "question_de": "Umstellung/Ergänzung gemäß Tarif G erforderlich?"
+        },
+        {
+          "condition_de": "Wenn Privat-Haftpflicht Inhaber/Geschäftsführer/Vorstände gewünscht",
+          "question_de": "Welche Deckungssumme (3/5/10 Mio. Euro PSV) soll eingeschlossen werden?"
+        }
+      ],
+      "referral_decline_manual_review_rules": [
+        {
+          "trigger_de": "Mit 'Anfrage' gekennzeichnete Risiken",
+          "decision": "manual_review",
+          "action_de": "Anfrage HDI Gerling Firmen und Privat AG, Bereich VU Firmen/Privat"
+        },
+        {
+          "trigger_de": "Niederlassungen/Unternehmen im Ausland",
+          "decision": "manual_review",
+          "action_de": "Anfrage erforderlich"
+        },
+        {
+          "trigger_de": "Höhere Deckungssummen als tariflich genannt",
+          "decision": "manual_review",
+          "action_de": "Anfrage erforderlich"
+        },
+        {
+          "trigger_de": "Sonderdeckungen (pharmazeutische Unternehmer nach AMG, Kfz-Rückrufkostenversicherung, Produkt-Rückrufkostendeckung)",
+          "decision": "manual_review",
+          "action_de": "Nur über separate Policen/Zusatzbausteine"
+        },
+        {
+          "trigger_de": "Verlängerung der Verjährungsfrist bei Nacherfüllungsansprüchen über 2 Jahre",
+          "decision": "manual_review",
+          "action_de": "Anfrage erforderlich"
+        }
+      ]
+    }
+  ],
   "global_questions": [],
   "global_rules": [],
-  "uncertain_items": []
+  "uncertain_items": [
+    {
+      "item": "Nur Teil A und ein Ausschnitt der Prämientabellen liegen im verfügbaren Text vor; vollständige Tabellen/weitere Seiten fehlen.",
+      "reason": "Quelltextauszug endet im Bereich 'Chemie' und enthält nicht den gesamten Tarifinhalt."
+    },
+    {
+      "item": "Teilweise Zuordnung, ob Werte als Prämien pro mille auf Umsatz oder andere Basis gelten, wurde aus Tabellenkontext abgeleitet.",
+      "reason": "Spaltenkopf 'Prämiensatz' vorhanden, aber methodische Detaildefinition im Ausschnitt unvollständig."
+    },
+    {
+      "item": "Explizite Decline-Regeln sind im verfügbaren Textauszug nicht genannt.",
+      "reason": "Text enthält primär Anfrage-/Referral-Hinweise und Tarifparameter."
+    }
+  ]
 }
