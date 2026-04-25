@@ -3,28 +3,50 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>OC Underwriting Engine</title>
+    <title>Section A Underwriting MVP</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 24px; }
+      form { display: grid; gap: 12px; max-width: 760px; }
+      .card { border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin-top: 14px; }
+      .muted { color: #555; font-size: 0.95rem; }
+      .error { color: #a00000; font-weight: 700; }
+      .ok { color: #006600; font-weight: 700; }
+      .warning { color: #8c6200; font-weight: 700; }
+      .question { padding: 6px 0; border-bottom: 1px dashed #ddd; }
+      .question:last-child { border-bottom: none; }
+      button { width: fit-content; padding: 8px 14px; }
+      pre { white-space: pre-wrap; background: #f8f8f8; padding: 10px; border-radius: 6px; }
+    </style>
   </head>
   <body>
     <main>
-      <h1>Underwriting Activity Selector</h1>
+      <h1>Section A End-to-End Underwriting MVP</h1>
+      <p class="muted">Only Section A (Produkcja) is available in this MVP.</p>
 
       <form id="underwritingForm">
-        <label for="activityType">Activity category</label>
-        <select id="activityType" name="activityType" disabled>
-          <option value="" selected disabled>Loading categories...</option>
-        </select>
+        <label for="category">Category</label>
+        <input id="category" name="category" type="text" value="Produkcja" readonly />
 
         <label for="activity">Activity</label>
-        <select id="activity" name="activity" disabled>
-          <option value="" selected disabled>Select category first</option>
+        <select id="activity" name="activity" required>
+          <option value="" selected disabled>Loading activities...</option>
         </select>
 
-        <label for="notes">Notes</label>
-        <input id="notes" name="notes" type="text" placeholder="Optional notes" />
+        <label for="turnover">Turnover / exposure (EUR)</label>
+        <input id="turnover" name="turnover" type="number" min="1" step="1" placeholder="e.g. 1500000" required />
+
+        <section id="underwritingQuestions" class="card">
+          <h2>Underwriting questions</h2>
+          <p class="muted">Loading questions...</p>
+        </section>
+
+        <button type="submit">Calculate premium</button>
       </form>
 
-      <section id="activityQuestions" aria-live="polite"></section>
+      <section id="result" class="card" aria-live="polite">
+        <h2>Premium breakdown</h2>
+        <p class="muted">No calculation yet.</p>
+      </section>
     </main>
 
     <script src="/js/activityDropdown.js"></script>

@@ -1,95 +1,38 @@
 (() => {
   const activitySelect = document.getElementById("activity");
-  const activityTypeSelect = document.getElementById("activityType");
   const underwritingForm = document.getElementById("underwritingForm");
-  const activityQuestions = document.getElementById("activityQuestions");
+  const underwritingQuestionsContainer = document.getElementById("underwritingQuestions");
+  const resultContainer = document.getElementById("result");
 
-  if (!activitySelect || !activityTypeSelect) return;
+  if (!activitySelect || !underwritingForm || !underwritingQuestionsContainer || !resultContainer) {
+    return;
+  }
 
   const state = {
-    selectedCategory: "",
-    selectedActivity: "",
-    allActivities: [],
+    activities: [],
+    questions: null,
   };
 
-  function resetSelect(select, placeholder) {
-    select.replaceChildren();
+  function renderActivities(activities) {
+    activitySelect.replaceChildren();
 
-    const option = document.createElement("option");
-    option.value = "";
-    option.textContent = placeholder;
-    option.disabled = true;
-    option.selected = true;
-    select.appendChild(option);
-
-    select.value = "";
-    select.disabled = true;
-  }
-
-  function normalizeActivities(payload) {
-    if (!Array.isArray(payload)) return [];
-
-    return payload
-      .map((item) => {
-        if (!item || typeof item !== "object") return null;
-
-        const category = String(item.category || "").trim();
-        const code = String(item.code || item.id || "").trim();
-        const labelPl = String(item.label_pl || "").trim();
-        const labelSource = String(item.label_source || "").trim();
-        const label = labelPl || labelSource;
-
-        if (!category || !code || !label) return null;
-
-        return {
-          id: String(item.id || `${category}:${code}`),
-          category,
-          code,
-          label,
-          label_pl: labelPl,
-          label_source: labelSource,
-          tariff_section: String(item.tariff_section || "").trim(),
-        };
-      })
-      .filter(Boolean);
-  }
-
-  function getCategories(activities) {
-    return [...new Set(activities.map((item) => item.category))].sort((a, b) =>
-      a.localeCompare(b, "pl")
-    );
-  }
-
-  function renderCategories(categories) {
-    resetSelect(
-      activityTypeSelect,
-      categories.length ? "Select category" : "No categories available"
-    );
-
-    if (!categories.length) return;
-
-    const fragment = document.createDocumentFragment();
-
-    for (const category of categories) {
+    if (!activities.length) {
       const option = document.createElement("option");
-      option.value = category;
-      option.textContent = category;
-      fragment.appendChild(option);
+      option.value = "";
+      option.textContent = "No Section A activities available";
+      option.disabled = true;
+      option.selected = true;
+      activitySelect.appendChild(option);
+      activitySelect.disabled = true;
+      return;
     }
 
-    activityTypeSelect.appendChild(fragment);
-    activityTypeSelect.disabled = false;
-  }
-
-  function renderActivities(category) {
-    const activities = state.allActivities.filter((item) => item.category === category);
-
-    resetSelect(
-      activitySelect,
-      activities.length ? "Select an activity" : "No activities for this category"
-    );
-
-    if (!activities.length) return;
+    const placeholder = document.createElement("option");
+    placeholder.value = "";
+    placeholder.textContent = "Select a Section A activity";
+    placeholder.disabled = true;
+    placeholder.selected = true;
+    activitySelect.appendChild(placeholder);
 
     const fragment = document.createDocumentFragment();
 
@@ -104,51 +47,228 @@
     activitySelect.disabled = false;
   }
 
-  function resetActivityDependentUI() {
-    state.selectedActivity = "";
+  function buildYesNoQuestion(question, index) {
+    const wrapper = document.createElement("div");
+    wrapper.className = "question";
 
-    if (activityQuestions) {
-      activityQuestions.replaceChildren();
-    }
+    const label = document.createElement("label");
+    label.textContent = `${index + 1}. ${question.question_pl || question.question_de}`;
+    label.setAttribute("for", question.id);
 
-    if (underwritingForm) {
-      const savedCategory = state.selectedCategory;
-      underwritingForm.reset();
-      activityTypeSelect.value = savedCategory;
-    }
+    const select = document.createElement("select");
+    select.id = question.id;
+    select.name = question.id;
+    select.required = true;
+
+    const unknown = document.createElement("option");
+    unknown.value = "";
+    unknown.textContent = "Select answer";
+    unknown.selected = true;
+    unknown.disabled = true;
+
+    const yes = document.createElement("option");
+    yes.value = "yes";
+    yes.textContent = "Yes";
+
+    const no = document.createElement("option");
+    no.value = "no";
+    no.textContent = "No";
+
+    select.appendChild(unknown);
+    select.appendChild(yes);
+    select.appendChild(no);
+
+    wrapper.appendChild(label);
+    wrapper.appendChild(select);
+    return wrapper;
   }
 
-  async function loadActivities() {
-    const response = await fetch("/activities", {
-      headers: { Accept: "application/json" },
+  function renderQuestions() {
+    underwritingQuestionsContainer.replaceChildren();
+
+    const heading = document.createElement("h2");
+    heading.textContent = "Underwriting questions";
+    underwritingQuestionsContainer.appendChild(heading);
+
+    if (!state.questions) {
+      const p = document.createElement("p");
+      p.className = "muted";
+      p.textContent = "Questions are not available in extracted data.";
+      underwritingQuestionsContainer.appendChild(p);
+      return;
+    }
+
+    const uw = Array.isArray(state.questions.underwriting_questions)
+      ? state.questions.underwriting_questions
+      : [];
+
+    if (!uw.length) {
+      const p = document.createElement("p");
+      p.className = "muted";
+      p.textContent = "Underwriting questions are not available in extracted data.";
+      underwritingQuestionsContainer.appendChild(p);
+    }
+
+    uw.forEach((question, index) => {
+      underwritingQuestionsContainer.appendChild(buildYesNoQuestion(question, index));
+    });
+
+    const conditionalTitle = document.createElement("h3");
+    conditionalTitle.textContent = "Conditional questions";
+    underwritingQuestionsContainer.appendChild(conditionalTitle);
+
+    const conditional = Array.isArray(state.questions.conditional_questions)
+      ? state.questions.conditional_questions
+      : [];
+
+    if (!conditional.length) {
+      const p = document.createElement("p");
+      p.className = "muted";
+      p.textContent = "Conditional questions: not available in extracted data.";
+      underwritingQuestionsContainer.appendChild(p);
+      return;
+    }
+
+    const ul = document.createElement("ul");
+    for (const item of conditional) {
+      const li = document.createElement("li");
+      li.textContent = `${item.condition_de} → ${item.question_de}`;
+      ul.appendChild(li);
+    }
+
+    underwritingQuestionsContainer.appendChild(ul);
+  }
+
+  function collectAnswers() {
+    const answers = {};
+    const questions = state.questions?.underwriting_questions || [];
+
+    for (const question of questions) {
+      const field = underwritingForm.elements.namedItem(question.id);
+      answers[question.id] = field ? field.value : "";
+    }
+
+    return answers;
+  }
+
+  function formatNumber(value) {
+    if (typeof value !== "number") {
+      return String(value);
+    }
+
+    return value.toLocaleString("en-US", { maximumFractionDigits: 2 });
+  }
+
+  function renderResult(payload) {
+    resultContainer.replaceChildren();
+
+    const heading = document.createElement("h2");
+    heading.textContent = "Premium breakdown";
+    resultContainer.appendChild(heading);
+
+    const decision = document.createElement("p");
+    const status = payload.decision_status || "unavailable";
+    decision.className = status === "accept" ? "ok" : status === "manual_review" ? "warning" : "error";
+    decision.textContent = `Decision status: ${status}`;
+    resultContainer.appendChild(decision);
+
+    if (status === "manual_review" && Array.isArray(payload.manual_review_reasons)) {
+      const reasonTitle = document.createElement("p");
+      reasonTitle.textContent = "Manual review reasons:";
+      resultContainer.appendChild(reasonTitle);
+
+      const ul = document.createElement("ul");
+      payload.manual_review_reasons.forEach((reason) => {
+        const li = document.createElement("li");
+        li.textContent = reason;
+        ul.appendChild(li);
+      });
+      resultContainer.appendChild(ul);
+    }
+
+    if (!payload.quote_result) {
+      const unavailable = document.createElement("p");
+      unavailable.textContent = payload.message || "Quote result not available in extracted data.";
+      resultContainer.appendChild(unavailable);
+    } else {
+      const q = payload.quote_result;
+      const list = document.createElement("ul");
+      list.innerHTML = `
+        <li>Base rate per mille: ${formatNumber(q.base_rate_per_mille)}</li>
+        <li>Base premium (EUR): ${formatNumber(q.base_premium_eur)}</li>
+        <li>Minimum premium (EUR): ${formatNumber(q.minimum_premium_eur)}</li>
+        <li>Degression discount applied: ${formatNumber(q.degression_discount_applied_percent)}%</li>
+        <li>Total surcharges (EUR): ${formatNumber(q.total_surcharges_eur)}</li>
+        <li><strong>Final premium (EUR): ${formatNumber(q.final_premium_eur)}</strong></li>
+      `;
+      resultContainer.appendChild(list);
+    }
+
+    const traceTitle = document.createElement("h3");
+    traceTitle.textContent = "Audit trace";
+    resultContainer.appendChild(traceTitle);
+
+    const trace = document.createElement("pre");
+    trace.textContent = JSON.stringify(payload.audit_trace || [], null, 2);
+    resultContainer.appendChild(trace);
+  }
+
+  async function loadInitialData() {
+    const [activitiesResponse, questionsResponse] = await Promise.all([
+      fetch("/api/section-a/activities"),
+      fetch("/api/section-a/questions"),
+    ]);
+
+    if (!activitiesResponse.ok || !questionsResponse.ok) {
+      throw new Error("Failed to load Section A data");
+    }
+
+    const activitiesPayload = await activitiesResponse.json();
+    const questionsPayload = await questionsResponse.json();
+
+    state.activities = Array.isArray(activitiesPayload.activities) ? activitiesPayload.activities : [];
+    state.questions = questionsPayload;
+
+    renderActivities(state.activities);
+    renderQuestions();
+  }
+
+  underwritingForm.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    const activity_id = activitySelect.value;
+    const turnover_eur = Number(document.getElementById("turnover").value);
+
+    const response = await fetch("/api/section-a/quote", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify({
+        activity_id,
+        turnover_eur,
+        answers: collectAnswers(),
+      }),
     });
 
     if (!response.ok) {
-      throw new Error(`Failed to load activities (${response.status})`);
+      throw new Error(`Calculation failed (${response.status})`);
     }
 
     const payload = await response.json();
-    state.allActivities = normalizeActivities(payload);
-
-    const categories = getCategories(state.allActivities);
-    renderCategories(categories);
-
-    resetSelect(activitySelect, "Select category first");
-  }
-
-  activityTypeSelect.addEventListener("change", (event) => {
-    state.selectedCategory = event.target.value;
-    resetActivityDependentUI();
-    renderActivities(state.selectedCategory);
+    renderResult(payload);
   });
 
-  activitySelect.addEventListener("change", (event) => {
-    state.selectedActivity = event.target.value;
-  });
+  loadInitialData().catch((error) => {
+    resultContainer.replaceChildren();
+    const heading = document.createElement("h2");
+    heading.textContent = "Premium breakdown";
+    resultContainer.appendChild(heading);
 
-  loadActivities().catch((error) => {
-    console.error(error);
-    resetSelect(activityTypeSelect, "Unable to load categories");
-    resetSelect(activitySelect, "Unable to load activities");
+    const msg = document.createElement("p");
+    msg.className = "error";
+    msg.textContent = `Failed to load Section A data: ${error.message}`;
+    resultContainer.appendChild(msg);
   });
 })();
